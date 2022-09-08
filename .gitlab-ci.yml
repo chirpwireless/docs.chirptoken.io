@@ -1,0 +1,34 @@
+stages:
+  - build
+  - deploy
+
+include:
+  - project: chirpwireless/ci
+    file: general.yaml
+  - project: chirpwireless/ci
+    file: build-image.yaml
+  - project: chirpwireless/ci
+    file: helm.yaml
+
+variables:
+  IMAGE_NAME: registry.gitlab.com/chirpwireless/docs
+  IMAGE_TAG: $CI_COMMIT_SHORT_SHA
+  HELM_CHART_PATH: ./charts/docs
+  HELM_RELEASE_NAME: docs
+
+build:
+  extends: 
+    - .default
+    - .build-image
+  stage: build
+
+deploy:staging:
+  stage: deploy
+  variables:
+    EKS_CLUSTER_NAME: staging
+    NAMESPACE: staging
+  extends:
+    - .default
+    - .helm-deploy
+  needs:
+    - build
