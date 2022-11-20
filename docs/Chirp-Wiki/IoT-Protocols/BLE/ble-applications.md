@@ -1,32 +1,38 @@
 # BLE Applications
 
+## BLE Applications by domain
 Applications include:
 
 | **Domain** | **Description** |
-| :------------: | :------------------------------------------------------------------- |
-| **MESH** | Passing data short-range between devices across longer distances |
-| :------------: | :------------------------------------------------------------------- |
+| :------------: | :--------------------------------------------------------------------- |
+|    **MESH**    |      Passing data short-range between devices across longer distances |
 |                | -	Blood Pressure |
 |                | -	Health Thermometer Measurement Devices |
 | **Healthcare** | -	Glucose Level Monitors |
 |                | -	Continuous Glucode |
-|                | - Level Monitors |
-| :------------: | :------------------------------------------------------------------- |
-| **Sports** | -	Body Composition Measurement
--	Cycling Speed and Cadence (sensors attached to bikes)
--	Cycling Power Profile (including exercise bikes)
--	Heart Rate Monitoring
--	Location, Navigation, Tracking using GPS |
-| **Environment** | -	Enironmental Sensors
--	User Data Acquisition (e.g. heat in the room from a radiator) |
-| **Hardware** | -	Connecting a Keyboard (but not as precise due to latency)
--	Battery Level and Battery State of batteries in a device |
-| **Proximity** | -	Electronic Leash (check if another device goes out of range)
--	„Find Me!” (issues an alert on a second device) 
--	Proximity estimation (detect if a connected device is close) |
-| **Audio (LE Audio)** | -	Headphones
--	Hearing Aids
-(Lower Quality, better battery life compared to classic Bluetooth) |
+|                | -    Level Monitors |
+|                |                                                                        |
+|                | -	Body Composition Measurement |
+|                | -	Cycling Speed and Cadence (sensors attached to bikes) |
+|   **Sports**   | -	Cycling Power Profile (including exercise bikes) |
+|                | -	Heart Rate Monitoring |
+|                | -	Location, Navigation, Tracking using GPS |
+|                |                                                                        |
+|                | -	Enironmental Sensors (temperature, humidity) |
+| **Environment**| -	User Data Acquisition (e.g. heat in the room from a radiator) |
+|                | -    Air Quality Sensors (CO2, particulates)
+|                |                                                                        |
+|                | -    Connecting directly to a computer, phone or tablet |
+|  **Hardware**  | -	Connecting a Keyboard (but not as precise due to latency) |
+|                | -	Battery Level and Battery State of batteries in a device |
+|                |                                                                        |
+|                | -	Electronic Leash (check if another device goes out of range) |
+| **Proximity**  | -	„Find Me!” (issues an alert on a second device) |
+|                | -	Proximity estimation (detect if a connected device is close) |
+|                |                                                                        |
+|    **Audio**   | -	Headphones |
+|    (LE Audio)  | -	Hearing Aids |
+|                |      (Lower Quality, better battery life compared to classic Bluetooth) |
 
 ## Special BLE functions
 
