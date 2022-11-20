@@ -1,4 +1,3 @@
-
 # BLE Applications
 
 Applications include:
@@ -6,10 +5,7 @@ Applications include:
 | **Domain** | **Description** |
 | :------------: | :------------------------------------------------------------------- |
 | **MESH** | Passing data short-range between devices across longer distances |
-| **Healthcare** | -	Blood Pressure
--	Health Thermometer Measurement Devices
--	Glucose Level Monitors
--	Continuous Glucode Level Monitors |
+| **Healthcare** | -	Blood Pressure -	Health Thermometer Measurement Devices -	Glucose Level Monitors -	Continuous Glucode - Level Monitors |
 | **Sports** | -	Body Composition Measurement
 -	Cycling Speed and Cadence (sensors attached to bikes)
 -	Cycling Power Profile (including exercise bikes)
