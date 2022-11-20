@@ -1,3 +1,7 @@
+---
+sidebar_position: 2
+---
+
 # BLE Applications
 
 ## BLE Applications by domain
