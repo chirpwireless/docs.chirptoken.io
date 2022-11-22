@@ -14,7 +14,7 @@ sidebar_position: 1
 
 **LoRa** has a large number of uses, usually related to collecting data from a very large number of different **[sensors](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Hardware.md)** across a very large area. This includes examples such as weather, air quality, pollution, light, temperature, humidity sensors, or switches such as one that checks whether a door is closed.
 
-On networks such as Chirp where **[type C](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Classes.md)** is enabled, devices are also listening all of the time for signals sent by **[Gateways](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Hardware.md)**, so they may respond to commands such as turning on lights, closing circuits, starting motors and moving valves. 
+On networks such as Chirp where **[type C](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-classes.md)** is enabled, devices are also listening all of the time for signals sent by **[Gateways](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Hardware.md)**, so they may respond to commands such as turning on lights, closing circuits, starting motors and moving valves. 
 
 These devices tend to have a much lower autonomy than normal **[type A](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-classes.md)** devices, so they will need to be recharged more often, or be plugged in.
 
