@@ -20,6 +20,7 @@ build:
   extends: 
     - .default
     - .build-image
+  when: manual
   stage: build
 
 deploy:staging:
