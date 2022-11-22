@@ -16,7 +16,7 @@ sidebar_position: 1
 
 On networks such as Chirp where **[type C](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Classes.md)** is enabled, devices are also listening all of the time for signals sent by **[Gateways](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Hardware.md)**, so they may respond to commands such as turning on lights, closing circuits, starting motors and moving valves. 
 
-These devices tend to have a much lower autonomy than normal **[type A](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Classes.md)** devices, so they will need to be recharged more often, or be plugged in.
+These devices tend to have a much lower autonomy than normal **[type A](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-classes.md)** devices, so they will need to be recharged more often, or be plugged in.
 
 ## How does it compare?
 
