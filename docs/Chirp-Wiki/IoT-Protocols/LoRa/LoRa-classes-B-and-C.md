@@ -18,4 +18,4 @@ This makes Type B devices more energy consuming but will lower latency and with 
 
 Class C devices are always on. Their receiving window is only stopped when they are transmitting themselves, and are otherwise always listening. They are the only ones that are usually plugged in rather than battery powered because of their increased power consumption, but have significantly reduced latency. This enables type C devices to control physical devices such as valves and switches in real time, opening and closing faucets, turning on and off streetlights, handling a smart irrigation system from a long distance or controlling plenty of other IoT devices.
 
-![LoRa Class C](docs/Chirp-Wiki/IoT-Protocols/LoRa/classC.png)
+![LoRa Class C](classC.png)
