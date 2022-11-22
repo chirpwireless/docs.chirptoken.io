@@ -8,7 +8,7 @@ sidebar_position: 6
 
 LoRa Type B keeps the same behaviours as Type A devices, but in addition it schedules a special downlink window, called a Beacon, at fixed intervals, called the Beacon Period, that will be opened to receive data from the Cloud/Server Applications through a Gateway, regardless of whether or when the device sent a Transmission. When at the scheduled Beacon, an announcement that data will be sent to the device, a downlink period called the Ping slot is created.
 
-![LoRa Class B](docs/Chirp-Wiki/IoT-Protocols/LoRa/classB.png)
+![LoRa Class B](classB.png)
 
 Unlike Type A devices which can have extremely long time periods where no up- or downlinks are created (no signals are sent or received from the device), a Type B device will always wake up to open a receive window for the scheduled Beacon transmissions. Even when no data is exchanged for long periods of time, the Beacon transmissions will still take place at the scheduled Beacon Periods. 
 
