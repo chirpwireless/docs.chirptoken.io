@@ -13,7 +13,7 @@ The main driver of BLE adoption is the fact that it is compatible with the Bluet
 
 ## What's BLE for?
 
-Altough the usual **[BLE device](docs/Chirp-Wiki/Hardware/BLE-devices.md)** has very short range but very long lasting battery life, it’s main benefit compared to **[LoRa]( docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-intro.md)** or **[Zigbee](docs/Chirp-Wiki/IoT-Protocols/Zigbee/Zigbee-intro.md)** is that it is much better optimised for the devices that need to send data often. It is easy to make a **[BLE device](docs/Chirp-Wiki/Hardware/BLE-devices.md)** that sends lots of data more frequently but at short range, with almost (but not exactly) continuous data streams possible for small durations or data bursts. 
+Altough the usual **[BLE device](docs/Chirp-Wiki/Hardware/BLE-devices.md)** has very short range but very long lasting battery life, it’s main benefit compared to **[LoRa]( docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-intro.md)** or **[Zigbee](docs/Chirp-Wiki/IoT-Protocols/Zigbee/zigbee-intro.md)** is that it is much better optimised for the devices that need to send data often. It is easy to make a **[BLE device](docs/Chirp-Wiki/Hardware/BLE-devices.md)** that sends lots of data more frequently but at short range, with almost (but not exactly) continuous data streams possible for small durations or data bursts. 
 
 Compared to Bluetooth that has actual continuous connections, and is will most often be used for a wireless keyboard and mouse, some BLE applications also exist where battery is more important than the 100ms latency.
 
