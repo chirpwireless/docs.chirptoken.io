@@ -44,4 +44,4 @@ Because of the unique fact that BLE is installed on almost every single smartpho
 
 For example, a store can use this functionality to send users, who enable notifications from their app, a targeted promotional message as soon as they enter the store, or a welcome message, or a link to some useful information that they may need, such as where departments are located or where to find the closest customer service advisor.
 
-Although BLE can be used to assign unique IDs to real items using BLE tags, and a BLE Beacon (such as a [Blackbird](../Chirp-Wiki/Hardware/Blackbird.md) ) can read off the tags to detect which item exists, it is not able to easily locate items up to meter-level accuracy due to it being limited to the use of RSSI.
+Although BLE can be used to assign unique IDs to real items using BLE tags, and a BLE Beacon (such as a [Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md) ) can read off the tags to detect which item exists, it is not able to easily locate items up to meter-level accuracy due to it being limited to the use of RSSI.
