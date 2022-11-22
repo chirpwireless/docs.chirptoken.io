@@ -6,7 +6,7 @@ sidebar_position: 5
 
 LoRa Type A is the simplest one, and the only one that older, legacy networks support. 
 
-![LoRa Class A](docs/Chirp-Wiki/IoT-Protocols/LoRa/classA.png)
+![LoRa Class A](classA.png)
 
 Lora Type A devices are only capable to listen for a response from the Gateway after transmitting data during two open communication windows separated by a fixed delay. If the device does not receive anything in these limited windows of time when it is listening, it will not be able to receive anyhing until after it transmits data again and two new downlink windows are opened, identical to the previous ones.
 
