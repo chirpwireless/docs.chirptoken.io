@@ -4,7 +4,7 @@ sidebar_position: 1
 
 ## What is the Blackbird?
 
-The Blackbird is Chirp’s flagship IoT Gateway,  joining together in a single plug-and-play box all of the major IoT protocols: **[LoRa]( docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-intro.md)** ,  **[BLE](docs/Chirp-Wiki/IoT-Protocols/BLE/BLE-intro.md)** , **[Zigbee](docs/Chirp-Wiki/IoT-Protocols/Zigbee/Zigbee-intro.md)** . The Blackbird doubles down as a IoT Gateway, an antenna device that provides wireless coverage for the IoT, as well as a Crypto miner. 
+The Blackbird is Chirp’s flagship IoT Gateway,  joining together in a single plug-and-play box all of the major IoT protocols: **[LoRa]( docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-intro.md)** ,  **[BLE](docs/Chirp-Wiki/IoT-Protocols/BLE/BLE-intro.md)** , **[Zigbee](docs/Chirp-Wiki/IoT-Protocols/Zigbee/zigbee-intro.md)** . The Blackbird doubles down as a IoT Gateway, an antenna device that provides wireless coverage for the IoT, as well as a Crypto miner. 
 
 To find out more about generating tokens, check out **[Generating Chirp Tokens](docs/Chirp-Wiki/Chirp-Tokens/blackbird-tokens.md)**
 
