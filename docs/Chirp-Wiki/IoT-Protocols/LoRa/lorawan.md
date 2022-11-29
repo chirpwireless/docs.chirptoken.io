@@ -16,7 +16,7 @@ Whilst Semtech proides novel **[LoRa Chipsets](LoRa-chipsets.md)** , semiconduct
 
 In short, no. **[LoRa](LoRa-intro.md)** is the communication protocol, the technology that makes it possible to do long-range wide area IoT with extremely low power consumption. A single **[LoRa Gateway](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Hardware.md)** can be installed in a home to enable the use of **[LoRa](LoRa-intro.md)** for a few local **[devices](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Hardware.md)**, but this does not constitute a LoRaWAN Network.
 
-Creating an IoT Network is possible using various types of communication protocols. The **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)**, for example, provides **[two standards of LoRa (sub-GHz and ISM 2.4GHz)](Dual-band-LoRa.md)** , **[Zigbee](docs/Chirp-Wiki/IoT-Protocols/Zigbee/Zigbee-intro.md)** and **[BLE](docs/Chirp-Wiki/IoT-Protocols/BLE/BLE-intro.md)** . The Chirp Network constitutes a LoRaWAN network because it uses **[LoRa](LoRa-intro.md)** and follows all of the standards and regulations imposed by the LoRa Alliance.
+Creating an IoT Network is possible using various types of communication protocols. The **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)**, for example, provides **[two standards of LoRa (sub-GHz and ISM 2.4GHz)](Dual-band-LoRa.md)** , **[Zigbee](docs/Chirp-Wiki/IoT-Protocols/Zigbee/zigbee-intro.md)** and **[BLE](docs/Chirp-Wiki/IoT-Protocols/BLE/BLE-intro.md)** . The Chirp Network constitutes a LoRaWAN network because it uses **[LoRa](LoRa-intro.md)** and follows all of the standards and regulations imposed by the LoRa Alliance.
 
 ## Why is this distinction important?
 
