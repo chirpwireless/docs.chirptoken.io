@@ -28,5 +28,5 @@ Similar to the **[Cardinal](Cardinal.md)**, the Vulture is financed and governed
 
 ## Token Economy Implications
 
-Each one of the miner Devices (**[Cardinal](Cardinal.md)**, **[Blackbird](Blackbird.md)**, **[Vulture](Vulture.md)**) generate rewards based on the same tokenomics model presented in other wiki entries and on the main Tokenomics Document. They all provide rewards in the same token, the **[Chirp Token](docs/Chirp-Wiki/Chirp-Tokens/chirp-tokens.md)**.
+Each one of the miner Devices (**[Cardinal](Cardinal.md)**, **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)**, **[Vulture](Vulture.md)**) generate rewards based on the same tokenomics model presented in other wiki entries and on the main Tokenomics Document. They all provide rewards in the same token, the **[Chirp Token](docs/Chirp-Wiki/Chirp-Tokens/chirp-tokens.md)**.
 
