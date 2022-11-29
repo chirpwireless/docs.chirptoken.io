@@ -1,24 +1,24 @@
-
 # Tips and Tricks to maximize Rewards
 
 ## Blackbird Location
 
-A single Blackbird can provide long-range coverage for dual-band LoRa of up to hundreds of kilometers. Installing them close together is often times inefficient and in certain cases it may not produce any additional benefit whatsoever. 
+A single **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)** can provide long-range coverage for **[dual-band LoRa](](docs/Chirp-Wiki/IoT-Protocols/LoRa/Dual-band-LoRa.md)** of up to hundreds of kilometers. Installing them close together is often times inefficient and in certain cases it may not produce any additional benefit whatsoever.
+
 Because of this, optimizing the placement of your Blackbird Gateway is one of the most important things to consider when becoming a Keeper. 
 
--	Installing two Blackbirds close together or next to another existing Blackbird, at a distance of less than 400m, will generate no rewards whatsoever. 
+-	Installing two **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)** close together or next to another existing **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)**, at a distance of less than 400m, will generate no rewards whatsoever. 
 
--	Once more than X Blackbirds are installed in the same 1 square mile area, the area is declared saturated and it will be impossible to add more Blackbirds in the future.
+-	Once more than a fixed number of **[Blackbirds](docs/Chirp-Wiki/Hardware/Blackbird.md)** are installed in the same 1 square mile area, the area is declared saturated and it will be impossible to add more **[Blackbirds](docs/Chirp-Wiki/Hardware/Blackbird.md)** in the future.
 
 ## Blackbird Height
 
--	Providing good signal coverage is best when the Antenna is in direct line-of-sight to other Blackbirds and Devices. In order to achieve this, you must make sure that your Blackbird is not obstructed by buildings, mountains or any other thing that may decrease its visibility.
+-	Providing good signal coverage is best when the Antenna is in direct line-of-sight to other **[Blackbirds](docs/Chirp-Wiki/Hardware/Blackbird.md)** and **[Devices](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Hardware.md)**. In order to achieve this, you must make sure that your **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)** is not obstructed by buildings, mountains or any other thing that may decrease its visibility.
 
 -	It is a best practice to install the Antenna as high-up as possible, on top of very tall buildings, on radio towers, on top of hills, etc. 
 
 ## Maximize Availability
 
-The Blackbird requires, at minimum, only two things to function: 
+The **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)** requires, at minimum, only two things to function: 
 
 1.	Power
 2.	Internet access 
