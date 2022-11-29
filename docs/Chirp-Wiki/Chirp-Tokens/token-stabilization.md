@@ -19,3 +19,5 @@ The supply of tokens is permanently adjusted depending on how much it is in dema
 When many people want to use the Network by installing new devices that communicate with Blackbirds and transfer a lot of data, lots of Chirp tokens get burned at the time of being transformed into access to the network. This makes the total supply smaller, meaning that the same or a greater network value is expressed by fewer tokens – growing the value of the Chirp token. To explore this in more detail, check out the **[High Network Usage Scenario](high-usage.md)**.
 
 When fewer people use the network and growth slows down, fewer Chirp tokens are burned, which means that more will be circulating in the market, and the price for them will be smaller. Since access to the network and data transmitted on the Network always costs the same in dollar (fiat, USD) terms, the same amount of fiat will need to buy more tokens, which will increase the demand of the Chirp tokens on the market, making the price grow and compensate for the decreasing usage. To explore this in more detail, check out the **[Low Network Usage Scenario](low-usage.md)**.
+
+![Network Usage Scenarios](usage.png)
