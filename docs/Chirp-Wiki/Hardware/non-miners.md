@@ -1,11 +1,10 @@
-
 # Chirp’s Non-Miner devices
 
 ## IoT Devices
 
 An IoT Device is a small and very low power device that can transmit and receive small quantities of information through the form of data packets, necessary in different IoT applications, to a **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)**, Chirp’s **[IoT Gateway](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Hardware.md)**. 
 
-The lifetime of the average battery powered device is usually on the order of months or years, with some LoRa **[class A](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Classes.md)** devices lasting up to 3 years. 
+The lifetime of the average battery powered device is usually on the order of months or years, with some LoRa **[class A](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-classes.md)** devices lasting up to 3 years. 
 
 Devices are each made for a specific communication protocol, such as **[LoRa devices](docs/Chirp-Wiki/IoT-Protocols/LoRa/LoRa-Hardware.md)**, **[BLE devices](docs/Chirp-Wiki/Hardware/BLE-devices.md)** or **Zigbee devices**, and are not often capable to use more than a single communication protocol.
 
