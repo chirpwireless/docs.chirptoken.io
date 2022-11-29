@@ -11,7 +11,7 @@ The Chirp Economic Model uses two distinct virtuous, positive loops, that reinfo
 1.	The token cycle 
 2.	The Hardware Cycle
 
-
+![The Flywheel Model](flywheel.png)
 
 ## The Token Cycle
 
