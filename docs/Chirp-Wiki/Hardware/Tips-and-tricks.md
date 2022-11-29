@@ -4,7 +4,7 @@
 
 A single **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)** can provide long-range coverage for **[dual-band LoRa](docs/Chirp-Wiki/IoT-Protocols/LoRa/Dual-band-LoRa.md)** of up to hundreds of kilometers. Installing them close together is often times inefficient and in certain cases it may not produce any additional benefit whatsoever.
 
-Because of this, optimizing the placement of your Blackbird Gateway is one of the most important things to consider when becoming a Keeper. 
+Because of this, optimizing the placement of your **[Blackbird Gateway](docs/Chirp-Wiki/Hardware/Blackbird.md)** is one of the most important things to consider when becoming a Keeper. 
 
 -	Installing two **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)** close together or next to another existing **[Blackbird](docs/Chirp-Wiki/Hardware/Blackbird.md)**, at a distance of less than 400m, will generate no rewards whatsoever. 
 
