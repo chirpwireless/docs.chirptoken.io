@@ -69,54 +69,21 @@ const config = {
             position: 'left',
             label: 'Docs',
           },
-          {to: 'https://chirpwireless.io', label: 'Main site', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          { to: 'https://chirpwireless.io', label: 'Main site', position: 'left' },
         ],
       },
       footer: {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
-            items: [
-              {
-                label: 'Docs',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
             title: 'Community',
             items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-              },
-              {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
-              },
-              {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
-            ],
-          },
-          {
-            title: 'More',
-            items: [
-              {
-                label: 'Blog',
-                to: '/blog',
-              },
-              {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
-              },
+              { label: 'Medium', href: 'https://chirpiot.medium.com' },
+              { label: 'YouTube', href: 'https://www.youtube.com/channel/UClG9ngaNeWJ-3EhQK0tJ5mQ' },
+              { label: 'Twitter', href: 'https://twitter.com/ChirpIoT' },
+              { label: 'Discord', href: 'https://discord.com/invite/zxAaVQgFvs' },
+              { label: 'Telegram', href: 'https://t.me/ChirpIoT' },
+              { label: 'Reddit', href: 'https://www.reddit.com/r/ChirpIoT/' },
             ],
           },
         ],

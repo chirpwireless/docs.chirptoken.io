@@ -48,3 +48,13 @@
   --ifm-footer-background-color: var(--ifm-background-color);
   border-top: 1px solid var(--ifm-toc-border-color);
 }
+
+.footer__items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem 2.5rem;
+}
+
+.footer__copyright {
+  text-align: left;
+}
