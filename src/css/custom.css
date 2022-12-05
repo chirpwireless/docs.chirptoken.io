@@ -4,8 +4,17 @@
  * work well for content-centric websites.
  */
 
+@font-face {
+  font-family: 'Alliance No.2';
+  src: url('/static/fonts/alliance-no-2/alliance-no-2-regular.woff2') format('woff2'),
+    url('/static/fonts/alliance-no-2/alliance-no-2-regular.woff') format('woff');
+}
+
 /* You can override the default Infima variables here. */
 :root {
+  --ifm-font-family-base: 'Alliance No.2', Arial, Helvetica, sans-serif;
+  --ifm-font-size-base: 16px;
+
   --ifm-color-primary: #2e8555;
   --ifm-color-primary-dark: #29784c;
   --ifm-color-primary-darker: #277148;
