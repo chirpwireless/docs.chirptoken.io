@@ -1,0 +1,14 @@
+ingress:
+  enabled: true
+  className: "nginx-external"
+  annotations:
+    cert-manager.io/cluster-issuer: chirpwireless
+  hosts:
+    - host: docs.staging.internal.chirpwireless.io
+      paths:
+        - path: /
+          pathType: ImplementationSpecific
+  tls: 
+   - secretName: docs-tls
+     hosts:
+       - docs.staging.internal.chirpwireless.io

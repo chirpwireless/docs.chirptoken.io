@@ -25,9 +25,29 @@ build:
 
 deploy:staging:
   stage: deploy
+  environment:
+    name: staging
+    url: http://docs.internal.chirpwireless.io
   variables:
     EKS_CLUSTER_NAME: staging
     NAMESPACE: staging
+    VALUES_FILE: ./charts/values/staging.yaml
+  extends:
+    - .default
+    - .helm-deploy
+  needs:
+    - build
+
+
+deploy:prod:
+  stage: deploy
+  environment:
+    name: prod
+    url: http://docs.chirpwireless.io
+  variables:
+    EKS_CLUSTER_NAME: staging
+    NAMESPACE: prod
+    VALUES_FILE: ./charts/values/prod.yaml
   extends:
     - .default
     - .helm-deploy

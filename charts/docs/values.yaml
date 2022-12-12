@@ -43,19 +43,19 @@ service:
   port: 80
 
 ingress:
-  enabled: true
-  className: "nginx-external"
-  annotations:
-    cert-manager.io/cluster-issuer: chirpwireless
-  hosts:
-    - host: docs.staging.internal.chirpwireless.io
-      paths:
-        - path: /
-          pathType: ImplementationSpecific
-  tls: 
-   - secretName: docs-tls
-     hosts:
-       - docs.staging.internal.chirpwireless.io
+  enabled: false
+#   className: "nginx-external"
+#   annotations:
+#     cert-manager.io/cluster-issuer: chirpwireless
+#   hosts:
+#     - host: docs.staging.internal.chirpwireless.io
+#       paths:
+#         - path: /
+#           pathType: ImplementationSpecific
+#   tls: 
+#    - secretName: docs-tls
+#      hosts:
+#        - docs.staging.internal.chirpwireless.io
 
 resources: 
   # We usually recommend not to specify default resources and to leave this as a conscious
