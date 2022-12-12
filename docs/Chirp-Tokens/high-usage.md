@@ -2,7 +2,7 @@
 
 ## How does it work?
 
-During accelerated Network Growth, when lots of people scramble to install as many **[Blackbirds](docs/Chirp-Wiki/Hardware/Blackbird.md)** as possible and the area of coverage where you can use the Chirp Network increases very fast, the number of **[Chirp Tokens](chirp-tokens.md)** being burned increases, which basically means that the total maximum number of Tokens in the Network decreases. 
+During accelerated Network Growth, when lots of people scramble to install as many **[Blackbirds](docs/Hardware/Blackbird.md)** as possible and the area of coverage where you can use the Chirp Network increases very fast, the number of **[Chirp Tokens](chirp-tokens.md)** being burned increases, which basically means that the total maximum number of Tokens in the Network decreases. 
 
 The decrease in total supply from burning causes the Price of the **[Chirp Token](chirp-tokens.md)** to increase, because more value is represented by fewer tokens. This is normally called **deflation**, and it is the same mechanism that people tend to associate with “making money more valuable", or "buying more with less".
 
