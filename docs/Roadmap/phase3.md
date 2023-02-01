@@ -1,4 +1,4 @@
-# Phase III – Growth&Diversification – 2024
+# Phase III – Growth & Diversification – 2024
 
 ## Launching Chirp's Mesh 
 Phase 3 of the Chirp project, set to launch in 2024, is focused on growth and diversification. One of the major developments during this phase is the implementation of a mesh network, which utilizes multiple "nodes" (Blackbirds) to extend the radio signal and improve connectivity. This system minimizes the possibility of dead zones and reduces the risk of connectivity failure, as each node in the network has multiple ways to send and receive information. This means that if one node breaks, another one can pick up the signal and replace it, ensuring a seamless experience for the end user.
