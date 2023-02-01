@@ -2,7 +2,7 @@
 
 Mesh networking is a way of creating networks in which devices communicate with each other directly and dynamically, as opposed to through a central point such as a central router. In a mesh network, there are multiple paths between devices, allowing data to be routed around any obstacles, or jumping over malfunctioning equipment, in order to make the network more robust.
 
-## Why Mesh Networking Matters for Chirp?
+## How will Chirp benefit from Mesh
 Chirp's Mesh Networking is designed to provide a scalable, secure, and flexible solution for IoT networks. It offers several key benefits, including:
 1.	Improved Reliability: With multiple paths between Blackbirds, and a plethora of devices to chose from given the decentralized nature of the network, mesh networks can route data around any obstacles or failures, making the network more reliable. This self-healing network architecture means that even if a device fails, the network can continue to operate seamlessly and maintain connectivity. This level of interoperability makes it possible to engage in increasingly more complicated and compelx automation applications using the Chirp Network, increasing its reach and potential usecases.
 2.	Enhanced Security: Chirp's Mesh Networking uses advanced encryption techniques to protect data, particularly the cryptographic guarantee resulting from the Chirp Consensus Protocol, making it a secure solution for IoT networks. The decentralized nature of mesh networks also makes it incredibily difficult for cyber criminals to access sensitive information, because it increases exponentially the number of devices that need to be captured before the netowork's functionality is at all affected. 
