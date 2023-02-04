@@ -1,4 +1,3 @@
-
 # Blackbird Upgrades
 
 Technology is advancing incredibly fast. In a frontier technological field such as the Internet-of-Things, a few years could result in fundamental changes to the usability and function of a device. In order for the long-term ambition of Chirp to be possible, the mistakes of projects that came before us must not be repeated, and thus, upgrading the **[Blackbird](docs/Hardware/Blackbird.md)** was assured from the very start.
