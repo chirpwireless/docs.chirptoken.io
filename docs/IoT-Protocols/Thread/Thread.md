@@ -1,4 +1,4 @@
-#From Zigbee to Thread
+# From Zigbee to Thread
 ## What is Thread?
 Developed by the Thread Group, a consortium of companies that includes Google, Nest, and Samsung, Thread is a low-power, mesh networking protocol that is designed specifically for IoT devices. Unlike Zigbee and Z-Wave, Thread uses IP-based communication, which means that it can easily integrate with other IP-based networks and devices. This makes it a great choice for smart home applications, as it can easily connect to and communicate with other devices such as smartphones, tablets, and PCs. Additionally, Thread uses AES-128 encryption for security, which is a higher level of security than Zigbee and Z-Wave.
 
