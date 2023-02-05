@@ -1,4 +1,4 @@
-Semtech Chipsets
+# Semtech Chipsets
 
 ## Who is Semtech?
 Semtech is the provider of multiple new and innovative semiconductor devices required in the creation of advanced LoRa products. They are one of the most important actors in the adoption of LoRa as a leading IoT communication protocol in commercial applications for the expansion of IoT.
