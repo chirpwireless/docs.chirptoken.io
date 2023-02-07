@@ -20,7 +20,7 @@ These devices tend to have a much lower autonomy than normal **[type A](docs/IoT
 
 ## How does it compare?
 
-**LoRa** has the best range and cost compared to all of the other **[IoT protocols](docs/IoT-Protocols/IoT-Protocols.md)**. It provides coverage for millions of devices over very long ranges, up to hundreds of kilometers at a fraction of the price, using only open, **[license free frequency bands](docs/IoT-Protocols/LoRa/Dual-band-LoRa.md)**.
+**LoRa** has the best range and cost compared to all of the other **[IoT protocols](docs/IoT-Protocols/IoT-Protocols-compared.md)**. It provides coverage for millions of devices over very long ranges, up to hundreds of kilometers at a fraction of the price, using only open, **[license free frequency bands](docs/IoT-Protocols/LoRa/Dual-band-LoRa.md)**.
 
 However, in terms of bandwidth and data rate it is below Wi-fi, **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** and cellular, altough recent advances in AI-based algorithms have achieved breakthroughs in enabling new advanced applications of LoRa such as image, video and audio transmission. One example would be **[MatchX's edgeX AI](https://matchx.io/products/edge-x-ai-kit)** 
 
