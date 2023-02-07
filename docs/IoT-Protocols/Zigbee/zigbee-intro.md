@@ -5,7 +5,7 @@ sidebar_position: 1
 # Zigbee
 
 ## What is Zigbee?
-Similar to **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)**, Zigbee is a short-range IoT protocol specialised in low-power radio devices at a range of 10 to 100m. Zigbee operates in the same 2.4 GHz ISM band as the other IoT protocols installed on the **[Blackbird](docs/Hardware/Blackbird/Blackbird/Blackbird.md)**. Unlike BLE and LoRa, the Zigbee module comes installed as an external, optional dongle that can be omitted when it is not required by a **[Blackbird](docs/Hardware/Blackbird/Blackbird.md)**’s Keeper.
+Similar to **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)**, Zigbee is a short-range IoT protocol specialised in low-power radio devices at a range of 10 to 100m. Zigbee operates in the same 2.4 GHz ISM band as the other IoT protocols installed on the **[Blackbird](docs/Hardware/Blackbird/Blackbird.md)**. Unlike BLE and LoRa, the Zigbee module comes installed as an external, optional dongle that can be omitted when it is not required by a **[Blackbird](docs/Hardware/Blackbird/Blackbird.md)**’s Keeper.
 
 ## What's so special about Zigbee?
 
