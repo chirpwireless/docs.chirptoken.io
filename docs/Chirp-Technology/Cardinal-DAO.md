@@ -2,10 +2,10 @@
 
 ## Governance and the DAO
 
-The **[Cardinal](docs/Hardware/Cardinal.md)** project will have a decentralized governance system with a built-in voting mechanism. This will allow token holders to vote on important issues regarding the operation of their local ISP antenna. 
+The **[Cardinal](docs/Hardware/Cardinal/Cardinal.md)** project will have a decentralized governance system with a built-in voting mechanism. This will allow token holders to vote on important issues regarding the operation of their local ISP antenna. 
 
 It will also use an internal governance system where users can vote on how they want their tokens to be used or transferred. 
-Crypto governance is the process of making decisions on how to move forward with **[Cardinal's](docs/Chirp-Wiki/Hardware/Cardinal.md)** development. 
+Crypto governance is the process of making decisions on how to move forward with **[Cardinal's](docs/Hardware/Cardinal/Cardinal.md)** development. 
 This includes voting and consensus-building processes that help determine which features get implemented and how they are implemented.
 
 ## The selling point:
