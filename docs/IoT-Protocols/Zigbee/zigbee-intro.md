@@ -5,14 +5,13 @@ sidebar_position: 1
 # Zigbee
 
 ## What is Zigbee?
-Similar to **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)**, Zigbee is a short-range IoT protocol specialised in low-power radio devices at a range of 10 to 100m. Zigbee operates in the same 2.4 GHz ISM band as the other IoT protocols installed on the **[Blackbird](docs/Hardware/Blackbird.md)**. Unlike BLE and LoRa, the Zigbee module comes installed as an external, optional dongle that can be omitted when it is not required by a **[Blackbird](docs/Hardware/Blackbird.md)**’s Keeper.
+Similar to **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)**, Zigbee is a short-range IoT protocol specialised in low-power radio devices at a range of 10 to 100m. Zigbee operates in the same 2.4 GHz ISM band as the other IoT protocols installed on the **[Blackbird](docs/Hardware/Blackbird/Blackbird.md)**. Unlike BLE and LoRa, the Zigbee module comes installed as an external, optional dongle that can be omitted when it is not required by a **[Blackbird](docs/Hardware/Blackbird.md)**’s Keeper.
 
 ## What's so special about Zigbee?
 
 The strong suit of Zigbee is that it was devised from the start to be easy to integrate in a Mesh Network, particularly suited for wireless control and monitoring, similar to **[LoRa class C](docs/IoT-Protocols/LoRa/LoRa-classes-B-and-C.md)**. This makes it extremely simple to work with even if you are a complete stranger to IoT, and this simplicity made it a top IoT protocol for home low complexity home automation solutions, with more than 2 billion devices currently on the market.
 
-Unlike **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** 
-and **[LoRa](docs/IoT-Protocols/LoRa/LoRa-intro.md)**, Zigbee is especially optimised for home automation, with its most common uses being in remote light switches, smart plugs, smoke and intruder detection, local sensors, and does not come with the same versatility as other IoT protocols. 
+Unlike **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** and **[LoRa](docs/IoT-Protocols/LoRa/LoRa-intro.md)**, Zigbee is especially optimised for home automation, with its most common uses being in remote light switches, smart plugs, smoke and intruder detection, local sensors, and does not come with the same versatility as other IoT protocols. 
 
 ## What are the limitations of Zigbee?
 
