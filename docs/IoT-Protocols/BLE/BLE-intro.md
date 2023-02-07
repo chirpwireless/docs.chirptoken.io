@@ -17,6 +17,6 @@ Altough the usual **[BLE device](docs/Hardware/BLE-devices.md)** has very short 
 
 Compared to Bluetooth that has actual continuous connections, and is will most often be used for a wireless keyboard and mouse, some BLE applications also exist where battery is more important than the 100ms latency.
 
-BLE uses the same 2.4 GHz radio frequency band as other protocols installed on the **[Blackbird](docs/Hardware/Blackbird.md)**, which makes it possible to share a single antenna with the other chipsets.
+BLE uses the same 2.4 GHz radio frequency band as other protocols installed on the **[Blackbird](docs/Hardware/Blackbird/Blackbird.md)**, which makes it possible to share a single antenna with the other chipsets.
 
 NOTE: Unlike classical Bluetooth, BLE has a much higher latency between connections (100ms compared to 6ms), a single BLE communication only transmits data in short bursts, it is not voice-capable, has a slightly lower data rate, but slightly higher than **[2.4GHz LoRa](docs/IoT-Protocols/LoRa/Dual-band-LoRa.md)**. 
