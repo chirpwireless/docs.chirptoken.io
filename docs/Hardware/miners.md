@@ -8,7 +8,7 @@ Our team provided the conceptual design and architecture definition for the **[B
 
 ## Blackbird
 
-The **[Blackbird](Blackbird/Blackbird.md)** is the flagship IoT Gateway, capable to provide IoT connectivity for multiple different IoT communication protocols such as **[dual-band LoRa](docs/IoT-Protocols/LoRa/Dual-band-LoRa.md)** , **[Zigbee](docs/IoT-Protocols/Zigbee/zigbee-intro.md)** and **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** . The **[Blackbird](Blackbird/Blackbird.md)** is also the main Miner  for the IoT side of the Chirp Network, as it provides **[token rewards](Blackbird/blackbird-tokens.md)** for IoT data traffic on the Chirp Network and for providing signal coverage.
+The **[Blackbird](Blackbird/Blackbird.md)** is the flagship IoT Gateway, capable to provide IoT connectivity for multiple different IoT communication protocols such as **[dual-band LoRa](docs/IoT-Protocols/LoRa/Dual-band-LoRa.md)** , **[Zigbee](docs/IoT-Protocols/Zigbee/zigbee-intro.md)** and **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** . The **[Blackbird](Blackbird/Blackbird.md)** is also the main Miner  for the IoT side of the Chirp Network, as it provides **[token rewards](docs/Chirp-Tokens/blackbird-tokens.md)** for IoT data traffic on the Chirp Network and for providing signal coverage.
 
 ## Satellite & LTE Backhaul
 
