@@ -4,15 +4,15 @@
 
 Chirp designs and collaborates with existing suppliers and manufacturers to create its own line of primary and secondary hardware, in order to supercharge the potential of our Network and to permit the use of the most novel technologies currently available on the market and in order to future-proof our technological position in a way never before achieved by decentralized IoT providers. 
 
-Our team provided the conceptual design and architecture definition for the **[Blackbird](docs/Hardware/Blackbird.md)**, the first of Chirp’s released pieces of proprietary hardware. 
+Our team provided the conceptual design and architecture definition for the **[Blackbird](Blackbird/Blackbird.md)**, the first of Chirp’s released pieces of proprietary hardware. 
 
 ## Blackbird
 
-The **[Blackbird](docs/Hardware/Blackbird.md)** is the flagship IoT Gateway, capable to provide IoT connectivity for multiple different IoT communication protocols such as **[dual-band LoRa](docs/IoT-Protocols/LoRa/Dual-band-LoRa.md)** , **[Zigbee](docs/IoT-Protocols/Zigbee/zigbee-intro.md)** and **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** . The **[Blackbird](docs/Hardware/Blackbird.md)** is also the main Miner  for the IoT side of the Chirp Network, as it provides **[token rewards](docs/Chirp-Tokens/blackbird-tokens.md)** for IoT data traffic on the Chirp Network and for providing signal coverage.
+The **[Blackbird](Blackbird/Blackbird.md)** is the flagship IoT Gateway, capable to provide IoT connectivity for multiple different IoT communication protocols such as **[dual-band LoRa](docs/IoT-Protocols/LoRa/Dual-band-LoRa.md)** , **[Zigbee](docs/IoT-Protocols/Zigbee/zigbee-intro.md)** and **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** . The **[Blackbird](Blackbird/Blackbird.md)** is also the main Miner  for the IoT side of the Chirp Network, as it provides **[token rewards](Blackbird/blackbird-tokens.md)** for IoT data traffic on the Chirp Network and for providing signal coverage.
 
 ## Satellite & LTE Backhaul
 
-To make it possible to provide coverage in remote areas where it may not always be possible to use Wi-Fi or an ethernet connection, both Satellite and LTE (cellular/3G) backhauls can be used to replace the internet connection. This enables **[Blackbird](docs/Hardware/Blackbird.md)** installation away from your home or on radio tower that do not offer internet.
+To make it possible to provide coverage in remote areas where it may not always be possible to use Wi-Fi or an ethernet connection, both Satellite and LTE (cellular/3G) backhauls can be used to replace the internet connection. This enables **[Blackbird](Blackbird/Blackbird.md)** installation away from your home or on radio tower that do not offer internet.
 
 ## Cardinal
 
@@ -22,5 +22,5 @@ The **[Cardinal](Cardinal.md)** is modular, and has one Beaming unit that takes 
 
 ## Token Economy Implications
 
-Each one of the miner Devices (**[Cardinal](Cardinal.md)**, **[Blackbird](docs/Hardware/Blackbird.md)**) generate rewards based on the same tokenomics model presented in other wiki entries and on the main Tokenomics Document. They all provide rewards in the same token, the **[Chirp Token](docs/Chirp-Tokens/chirp-tokens.md)**.
+Each one of the miner Devices (**[Cardinal](Cardinal.md)**, **[Blackbird](Blackbird/Blackbird.md)**) generate rewards based on the same tokenomics model presented in other wiki entries and on the main Tokenomics Document. They all provide rewards in the same token, the **[Chirp Token](docs/Chirp-Tokens/chirp-tokens.md)**.
 
