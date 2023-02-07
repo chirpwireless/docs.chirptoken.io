@@ -2,7 +2,7 @@
 
 ## LoRa Reminder
 
-**[LoRa](LoRa-intro.md)** is the IoT communication protocol optimized for very long range transmission of small quantities of data. It can provide IoT applications using specific devices that connect to a central point, called the **[LoRa Gateway](docs/IoT-Protocols/LoRa/LoRa-Hardware.md)**, that interprets the chirp signals into digital information and sends it through the internet.
+**[LoRa](LoRa-intro.md)** is the IoT communication protocol optimized for very long range transmission of small quantities of data. It can provide IoT applications using specific devices that connect to a central point, called the **[LoRa Gateway](LoRa-Hardware.md)**, that interprets the chirp signals into digital information and sends it through the internet.
 
 ## What is LoRaWAN?
 
@@ -10,13 +10,13 @@ LoRaWAN is the type of Wide Area Network (WAN) created specifically for **[LoRa]
 
 ## What makes LoRa Work? (Semtech and the LoRa Alliance)
 
-Whilst Semtech proides novel **[LoRa Chipsets](LoRa-chipsets.md)** , semiconductor devices that enable the functionality of **[LoRa Gateways](docs/IoT-Protocols/LoRa/LoRa-Hardware.md)** , the LoRa Alliance is the international non-profit organization that groups together the most important companies engaged in the development of a globally standardized and harmonious set of standards for LoRaWAN.
+Whilst Semtech proides novel **[LoRa Chipsets](LoRa-chipsets.md)** , semiconductor devices that enable the functionality of **[LoRa Gateways](LoRa-Hardware.md)** , the LoRa Alliance is the international non-profit organization that groups together the most important companies engaged in the development of a globally standardized and harmonious set of standards for LoRaWAN.
 
 ## Isn’t it the same?
 
 In short, no. **[LoRa](LoRa-intro.md)** is the communication protocol, the technology that makes it possible to do long-range wide area IoT with extremely low power consumption. A single **[LoRa Gateway](docs/IoT-Protocols/LoRa/LoRa-Hardware.md)** can be installed in a home to enable the use of **[LoRa](LoRa-intro.md)** for a few local **[devices](docs/IoT-Protocols/LoRa/LoRa-Hardware.md)**, but this does not constitute a LoRaWAN Network.
 
-Creating an IoT Network is possible using various types of communication protocols. The **[Blackbird](docs/Hardware/Blackbird.md)**, for example, provides **[two standards of LoRa (sub-GHz and ISM 2.4GHz)](Dual-band-LoRa.md)** , **[Zigbee](docs/IoT-Protocols/Zigbee/zigbee-intro.md)** and **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** . The Chirp Network constitutes a LoRaWAN network because it uses **[LoRa](LoRa-intro.md)** and follows all of the standards and regulations imposed by the LoRa Alliance.
+Creating an IoT Network is possible using various types of communication protocols. The **[Blackbird](docs/Hardware/Blackbird/Blackbird.md)**, for example, provides **[two standards of LoRa (sub-GHz and ISM 2.4GHz)](Dual-band-LoRa.md)** , **[Zigbee](docs/IoT-Protocols/Zigbee/zigbee-intro.md)** and **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** . The Chirp Network constitutes a LoRaWAN network because it uses **[LoRa](LoRa-intro.md)** and follows all of the standards and regulations imposed by the LoRa Alliance.
 
 ## Why is this distinction important?
 
