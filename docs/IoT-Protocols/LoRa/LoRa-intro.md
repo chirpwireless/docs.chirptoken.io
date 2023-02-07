@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # LoRa  - the Long Range protocol
 
-**LoRa** is one of the four main communication protocols used on the **Chirp** network. It is one of the main **IoT** technologies used in the **[Blackbird](docs/Hardware/Blackbird.md)**, designed to provide very long range **IoT** coverage for communications or applications that require small data streams, on the order the bytes or kilobytes.
+**LoRa** is one of the four main communication protocols used on the **Chirp** network. It is one of the main **IoT** technologies used in the **[Blackbird](docs/Hardware/Blackbird/Blackbird.md)**, designed to provide very long range **IoT** coverage for communications or applications that require small data streams, on the order the bytes or kilobytes.
 
 ## How does it work?
 
@@ -20,13 +20,13 @@ These devices tend to have a much lower autonomy than normal **[type A](docs/IoT
 
 ## How does it compare?
 
-**LoRa** has the best range and cost compared to all of the other **[IoT protocols](docs/IoT-Protocols.md)**. It provides coverage for millions of devices over very long ranges, up to hundreds of kilometers at a fraction of the price, using only open, **[license free frequency bands](docs/IoT-Protocols/LoRa/Dual-band-LoRa.md)**.
+**LoRa** has the best range and cost compared to all of the other **[IoT protocols](docs/IoT-Protocols/IoT-Protocols.md)**. It provides coverage for millions of devices over very long ranges, up to hundreds of kilometers at a fraction of the price, using only open, **[license free frequency bands](docs/IoT-Protocols/LoRa/Dual-band-LoRa.md)**.
 
 However, in terms of bandwidth and data rate it is below Wi-fi, **[BLE](docs/IoT-Protocols/BLE/BLE-intro.md)** and cellular, altough recent advances in AI-based algorithms have achieved breakthroughs in enabling new advanced applications of LoRa such as image, video and audio transmission. One example would be **[MatchX's edgeX AI](https://matchx.io/products/edge-x-ai-kit)** 
 
 Compared to other technologies, LoRa offer **deep indoor penetration**, essentially being able to penetrate concrete walls or cover an entire office building.
 
-LoRa, especially with the **[SX1303](docs/Hardware/Semtech-chipsets.md)** advanced chipset, can provide extremely precise location detection of any sensor on the network, such as a simple temperature sensor, without GPS, at meter-level accuracy.
+LoRa, especially with the **[SX1303](docs/Hardware/Blackbird/Semtech-chipsets.md)** advanced chipset, can provide extremely precise location detection of any sensor on the network, such as a simple temperature sensor, without GPS, at meter-level accuracy.
 
 
 
