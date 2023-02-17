@@ -22,3 +22,4 @@ Participating in later developments of the Chirp Network, such as the launch of 
 In addition, Keepers may participate in the governance process on the Chirp Network, voting for decisions that affect them, and making an impact onto the Chirp Ecosystem.
 
 **NOTE:** Because Blackbirds are registered to the Keeper's wallet, a stolen Blackbird properly installed and engaged in the process of Mining by providing IoT Coverage would continue to pay the Chirp Token rewards in the wallet of their rightfull Keeper. 
+
