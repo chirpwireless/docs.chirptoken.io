@@ -1,8 +1,8 @@
 ---
-sidebar_position: 4
+sidebar_position: 3
 ---
 
-# Blackbird Token Generation
+# Token Based Incentivization
 
 ## Chirp Tokens
 **[Blackbirds](docs/Hardware/Blackbird/Blackbird.md)** are IoT **[Gateways](docs/IoT-Protocols/LoRa/LoRa-Hardware.md)** as well and Chirp **Miners**, able to generate **[Chirp’s proprietary crypto token](docs/Chirp-Tokens/chirp-tokens.md)** as rewards for providing IoT coverage for nearby users, or by facilitating the transfer of data and information on the Chirp Network. 
