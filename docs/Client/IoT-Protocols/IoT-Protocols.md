@@ -2,7 +2,8 @@
 sidebar_position: 4
 ---
 
-# Comparing LoRa, Zigbee, BLE and Thread
+# Comparing IoT Protocols
+## LoRa, Zigbee, BLE and Thread
 
 The Internet of Things (IoT) is revolutionizing the way we live and work by connecting a vast array of devices to the internet and allowing them to communicate with each other. One of the key factors that determine the success of an IoT deployment is the choice of communication protocol. There are several communication protocols available for IoT, each with its own strengths and weaknesses. We will take a look at four of the most popular IoT communication protocols, including dual-band LoRa, Zigbee, Thread, and BLE, and compare their features, benefits, and limitations.
 

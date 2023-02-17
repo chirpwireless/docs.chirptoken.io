@@ -1,4 +1,4 @@
-# Why Antenna Design matters in IoT 
+# Why Antenna Design matters
 Antenna design is a crucial aspect of IoT (Internet of Things) applications, as it directly affects the performance and range of wireless communication between devices. 
 
 ## Why is Antenna Design Important in IoT Applications?
