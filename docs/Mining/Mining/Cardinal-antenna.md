@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# Cardinal Antennas
+# Cardinal
 
 In order to become an Internet Service Provider (ISP), an optical fibre connection found in the general proximity (e.g. Cogent, Arelion, Liberty Global) is used to beam data from to the main Cardinal Antenna Emitter on top of a well-placed radio tower using the 60GHz frequency band. The maximum distance for this connection is estimated at around 8 km. 
 

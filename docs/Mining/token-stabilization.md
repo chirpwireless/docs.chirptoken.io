@@ -1,3 +1,6 @@
+---
+sidebar_position: 17
+---
 # Token Price Stabilization Mechanism
 
 ## Volatility can be tamed

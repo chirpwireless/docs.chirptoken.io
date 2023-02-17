@@ -1,3 +1,7 @@
+---
+sidebar_position: 10
+---
+
 # Proof-of-Coverage (PoC)
 
 ## The Heart of the Chirp Network

@@ -1,3 +1,7 @@
+---
+sidebar_position: 18
+---
+
 # Phase I – Pre-Launch Stage – 2022 
 
 ## Assembling the team

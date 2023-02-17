@@ -1,3 +1,7 @@
+---
+sidebar_position: 20
+---
+
 # Phase III – Growth & Diversification – 2024
 
 ## Launching Chirp's Mesh 

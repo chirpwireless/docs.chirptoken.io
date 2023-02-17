@@ -1,3 +1,7 @@
+---
+sidebar_position: 12
+---
+
 # The Flywheel Model
 
 Pyramid Models often seen in Crypto economies suffer from a lot of volatility and instability, as seen in the extent of the crashes that occur during market downturns. 

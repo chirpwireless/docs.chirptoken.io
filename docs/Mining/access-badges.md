@@ -1,3 +1,7 @@
+---
+sidebar_position: 11
+---
+
 # $CHIRP Token and Access Badges
 The Chirp Network is revolutionizing the way people access the internet with its innovative and decentralized approach. The key to this new way of doing things is the $CHIRP token. It is the means by which access to the network is granted and also serves as a gateway to unlock participation within the Chirp ecosystem. The Chirp token itself is bought from the Crypto Markets through exchanges but may be transformed immediately into Data Usage for the Network from the moment of the fiat on-ramp.
 

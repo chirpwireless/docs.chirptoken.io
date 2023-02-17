@@ -1,3 +1,7 @@
+---
+sidebar_position: 7
+---
+
 # The Role of Tokenomics in IoT
 
 ## What is "tokenomics"?

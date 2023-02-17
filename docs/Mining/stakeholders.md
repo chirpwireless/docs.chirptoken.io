@@ -1,3 +1,7 @@
+---
+sidebar_position: 16
+---
+
 # Chirp’s Stakeholders
 
 Stakeholders play a crucial role in the functioning of the Chirp network, as they are responsible for enabling the network to grow and achieve its goals.
