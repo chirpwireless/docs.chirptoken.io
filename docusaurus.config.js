@@ -37,7 +37,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'Chirpwireless',
+        title: 'Chirp Token',
         logo: {
           alt: 'Chirpwireless Logo',
           src: 'img/logo.svg',
