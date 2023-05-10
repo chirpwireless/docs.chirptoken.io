@@ -43,10 +43,10 @@ deploy:prod:
   stage: deploy
   environment:
     name: prod
-    url: http://docs.chirpwireless.io
+    url: https://docs.prod.internal.chirpwireless.io
   variables:
-    EKS_CLUSTER_NAME: staging
-    NAMESPACE: prod
+    EKS_CLUSTER_NAME: prod
+    NAMESPACE: docs
     VALUES_FILE: ./charts/values/prod.yaml
   extends:
     - .default
