@@ -80,6 +80,7 @@ deploy-crypto:staging:
     - .helm-deploy
   needs:
     - build-crypto
+    - autoversion
 
 deploy-iot:staging:
   stage: deploy
@@ -96,6 +97,7 @@ deploy-iot:staging:
     - .helm-deploy
   needs:
     - build-iot
+    - autoversion
 
 ##deploy:prod:
 #  stage: deploy
