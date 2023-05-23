@@ -75,7 +75,6 @@ deploy-crypto:staging:
     NAMESPACE: staging
     VALUES_FILE: ./charts/values/crypto-wiki/staging.yaml
     HELM_RELEASE_NAME: docs-crypto
-    VERSION: crypto-$CI_COMMIT_SHORT_SHA
   extends:
     - .default
     - .helm-deploy
@@ -92,7 +91,6 @@ deploy-iot:staging:
     NAMESPACE: staging
     VALUES_FILE: ./charts/values/iot-wiki/staging.yaml
     HELM_RELEASE_NAME: docs-iot
-    VERSION: iot-$CI_COMMIT_SHORT_SHA
   extends:
     - .default
     - .helm-deploy
