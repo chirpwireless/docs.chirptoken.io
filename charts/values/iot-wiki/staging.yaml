@@ -1,3 +1,4 @@
+fullnameOverride: "docs-iot"
 ingress:
   enabled: true
   className: "nginx-external"

@@ -1,3 +1,4 @@
+fullnameOverride: "docs-crypto"
 ingress:
   enabled: true
   className: "nginx-external"
