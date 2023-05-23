@@ -43,7 +43,6 @@ build-crypto:
   when: manual
   before_script:
     - if [ -z "${IMAGE_NAME}" ]; then echo "Missing required variable \$IMAGE_NAME" && exit 1; fi;
-    - source .env
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.gitlab.com
     - export VERSION=crypto-$VERSION
   stage: build
@@ -57,7 +56,6 @@ build-iot:
   when: manual
   before_script:
     - if [ -z "${IMAGE_NAME}" ]; then echo "Missing required variable \$IMAGE_NAME" && exit 1; fi;
-    - source .env
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.gitlab.com
     - cp Dockerfile-iot Dockerfile
     - export VERSION=iot-$VERSION
