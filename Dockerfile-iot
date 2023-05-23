@@ -1,0 +1,12 @@
+FROM node:lts
+WORKDIR /app
+COPY . /app
+RUN rm -rf /app/docs/*
+
+#Copy only IoT pages
+COPY ./docs/intro.md /app/docs/
+COPY ./docs/PoC.md /app/docs/
+RUN npm install
+RUN npm run build
+
+CMD ["npm", "run", "serve"]

@@ -10,20 +10,36 @@ include:
   - project: chirpwireless/ci
     file: helm.yaml
 
+
 variables:
   IMAGE_NAME: registry.gitlab.com/chirpwireless/docs
   IMAGE_TAG: $CI_COMMIT_SHORT_SHA
   HELM_CHART_PATH: ./charts/docs
   HELM_RELEASE_NAME: docs
 
-build:
+build-crypto:
   extends: 
     - .default
     - .build-image
   when: manual
   stage: build
+  variables:
+    IMAGE_TAG: crypto-$CI_COMMIT_SHORT_SHA
 
-deploy:staging:
+build-iot:
+  extends: 
+    - .default
+    - .build-image
+  when: manual
+  before_script:
+    - cp Dockerfile-iot Dockerfile
+  stage: build
+  variables:
+    IMAGE_TAG: iot-$CI_COMMIT_SHORT_SHA
+
+
+
+deploy-crypto:staging:
   stage: deploy
   environment:
     name: staging
@@ -31,25 +47,43 @@ deploy:staging:
   variables:
     EKS_CLUSTER_NAME: staging
     NAMESPACE: staging
-    VALUES_FILE: ./charts/values/staging.yaml
+    VALUES_FILE: ./charts/values/crypto-wiki/staging.yaml
+    HELM_RELEASE_NAME: docs-crypto
+    VERSION: crypto-$CI_COMMIT_SHORT_SHA
   extends:
     - .default
     - .helm-deploy
   needs:
-    - build
+    - build-crypto
 
-
-deploy:prod:
+deploy-iot:staging:
   stage: deploy
   environment:
-    name: prod
-    url: https://docs.prod.internal.chirpwireless.io
+    name: staging
+    url: http://docs-iot.internal.chirpwireless.io
   variables:
-    EKS_CLUSTER_NAME: prod
-    NAMESPACE: docs
-    VALUES_FILE: ./charts/values/prod.yaml
+    EKS_CLUSTER_NAME: staging
+    NAMESPACE: staging
+    VALUES_FILE: ./charts/values/iot-wiki/staging.yaml
+    HELM_RELEASE_NAME: docs-iot
+    VERSION: iot-$CI_COMMIT_SHORT_SHA
   extends:
     - .default
     - .helm-deploy
   needs:
-    - build
+    - build-iot
+
+##deploy:prod:
+#  stage: deploy
+#  environment:
+#    name: prod
+#    url: https://docs.prod.internal.chirpwireless.io
+#  variables:
+#    EKS_CLUSTER_NAME: prod
+#    NAMESPACE: docs
+#    VALUES_FILE: ./charts/values/prod.yaml
+#  extends:
+#    - .default
+#    - .helm-deploy
+#  needs:
+#    - build
