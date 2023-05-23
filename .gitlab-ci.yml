@@ -1,4 +1,5 @@
 stages:
+  - autoversion
   - build
   - deploy
 
@@ -17,14 +18,37 @@ variables:
   HELM_CHART_PATH: ./charts/docs
   HELM_RELEASE_NAME: docs
 
+
+autoversion:
+  image: registry.gitlab.com/chirpwireless/infra/images/builder:main-latest
+  tags:
+    - meshplus
+  stage: autoversion
+  resource_group: autoversion
+  script:
+    - python3 /autoversion.py
+  artifacts:
+    reports:
+      dotenv: .env
+  rules:
+    - if: $CI_COMMIT_TAG
+      when: never
+    - when: on_success
+
+
 build-crypto:
   extends: 
     - .default
     - .build-image
   when: manual
+  before_script:
+    - if [ -z "${IMAGE_NAME}" ]; then echo "Missing required variable \$IMAGE_NAME" && exit 1; fi;
+    - source .env
+    - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.gitlab.com
+    - export VERSION=crypto-$VERSION
   stage: build
-  variables:
-    IMAGE_TAG: crypto-$CI_COMMIT_SHORT_SHA
+  needs:
+    - autoversion
 
 build-iot:
   extends: 
@@ -33,13 +57,13 @@ build-iot:
   when: manual
   before_script:
     - if [ -z "${IMAGE_NAME}" ]; then echo "Missing required variable \$IMAGE_NAME" && exit 1; fi;
-    - python3 /autoversion.py
     - source .env
     - docker login -u $CI_REGISTRY_USER -p $CI_REGISTRY_PASSWORD registry.gitlab.com
     - cp Dockerfile-iot Dockerfile
+    - export VERSION=iot-$VERSION
   stage: build
-  variables:
-    IMAGE_TAG: iot_$CI_COMMIT_SHORT_SHA
+  needs:
+    - autoversion
 
 
 
