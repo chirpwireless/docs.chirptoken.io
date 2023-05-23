@@ -75,6 +75,14 @@ deploy-crypto:staging:
     NAMESPACE: staging
     VALUES_FILE: ./charts/values/crypto-wiki/staging.yaml
     HELM_RELEASE_NAME: docs-crypto
+  before_script:
+    - if [ -z "${VERSION}" ]; then echo "Missing required variable \$IMAGE_TAG" && exit 1; fi;
+    - if [ -z "${HELM_CHART_PATH}" ]; then echo "Missing required variable \$HELM_CHART_PATH" && exit 1; fi;
+    - if [ -z "${HELM_RELEASE_NAME}" ]; then echo "Missing required variable \$HELM_RELEASE_NAME" && exit 1; fi;
+    - if [ -z "${NAMESPACE}" ]; then echo "Missing required variable \$NAMESPACE" && exit 1; fi;
+    - if [ -z "${EKS_CLUSTER_NAME}" ]; then echo "Missing required variable \$EKS_CLUSTER_NAME" && exit 1; fi;
+    - aws sts get-caller-identity
+    - export VERSION=crypto-$VERSION
   extends:
     - .default
     - .helm-deploy
@@ -92,6 +100,14 @@ deploy-iot:staging:
     NAMESPACE: staging
     VALUES_FILE: ./charts/values/iot-wiki/staging.yaml
     HELM_RELEASE_NAME: docs-iot
+  before_script:
+    - if [ -z "${VERSION}" ]; then echo "Missing required variable \$IMAGE_TAG" && exit 1; fi;
+    - if [ -z "${HELM_CHART_PATH}" ]; then echo "Missing required variable \$HELM_CHART_PATH" && exit 1; fi;
+    - if [ -z "${HELM_RELEASE_NAME}" ]; then echo "Missing required variable \$HELM_RELEASE_NAME" && exit 1; fi;
+    - if [ -z "${NAMESPACE}" ]; then echo "Missing required variable \$NAMESPACE" && exit 1; fi;
+    - if [ -z "${EKS_CLUSTER_NAME}" ]; then echo "Missing required variable \$EKS_CLUSTER_NAME" && exit 1; fi;
+    - aws sts get-caller-identity
+    - export VERSION=iot-$VERSION
   extends:
     - .default
     - .helm-deploy
