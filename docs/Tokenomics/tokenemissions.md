@@ -23,11 +23,13 @@ On the other hand, as data transfers are expected to increase with growth of net
 Token emissions are attributed to the team over a period of 10 years.
 
 ## Investors
+
 Our aim is to make the network as fair and decentralized as possible. But the development of a decentralized network requires a significant upfront investment for its development, hence the need for the funding rounds.
 
 The Investors will receive part of the newly minted tokens for the first 4 years after the Token Generating Event.
 
 ## Token Treasury
+
 6.27% of all emissions are attributed to a token treasury, which will serve the purpose of:
 Treasury funding, namely incentivizing the ecosystem growth by funding daily operations (including developers’ remuneration, marketing activities, services associated with network maintenance and development);
 Fund research and development and other grants for projects that will promote network growth and long-term adoption.
@@ -35,5 +37,6 @@ Fund research and development and other grants for projects that will promote ne
 The token treasury is going to be managed through the protocol’s treasury, following a predetermined mandate and subject to governance oversight from the network stakeholders.
 
 ## Token Reserve
+
 8.73% of the total supply will be pre-minted and allocated for token liquidity provision and there will be a yearly allocation for this same purpose. This includes exchange listing, market making and unforeseen liquidity and stabilization requirements.
 
