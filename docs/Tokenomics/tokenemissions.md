@@ -6,11 +6,13 @@ sidebar_position: 3
 
 Newly minted $CHIRP tokens are attributed to the network participants and distributed as per the below schedule. The token emissions are reduced by a factor every two years, to generate increasing scarcity as the economy grows.
 
-
+![Token Emissions](tokenemissions.png)
 
 Given the need to have liquidity at an early stage for the purpose of token listing and general operational activities, the equivalent of 10% of the token supply will be pre-minted and controlled by the treasury.
 
 The emissions will follow the below distribution schedule, with a decreasing percentage of emissions being distributed to Network Keepers via proof-of-coverage. As a result, over time a higher percentage of emissions will be allocated to data transfer as a way to reflect higher network adoption, resulting in a healthier economy.
+
+![Schedule](schedule.png)
 
 ## Network Keepers
 
