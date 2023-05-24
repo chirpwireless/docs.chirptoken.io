@@ -38,6 +38,7 @@ It's important to note that the higher your antenna is, the better chance it has
 7. Submit pictures of the gateway and installation
 8. Wait for installation approval
 
+```
 `<p>
   <span style="color: red;">
     To ensure the proper installation of the miner, please note that there are several valid approaches based on your specific installation conditions. As your miner is a high-quality and expensive telecommunications equipment, we highly recommend taking precautions to protect it.
@@ -49,6 +50,8 @@ It's important to note that the higher your antenna is, the better chance it has
     It is strongly advised to use lightning arresters and a Network RJ45 Surge Protector (these items are not included in the package) for safeguarding the equipment. Please be aware that any damages caused by static electricity or lightning are not covered by the warranty.
   </span>
 </p>
+```
+
 `
 
 
