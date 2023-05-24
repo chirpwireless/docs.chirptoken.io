@@ -12,7 +12,7 @@ The proposed tokenomics is planned to support its first growth stage, the IoT ne
 
 Chirp’s vision encompasses future network expansions to other communication protocols and technological deployments, within the current deployment of rewards distribution. These expansions should result in added utility to the network, thus making Chirp’s ecosystem larger and more valuable.
 
-# $CHIRP Token Utility
+## $CHIRP Token Utility
 $CHIRP has five main purposes:
 
 
