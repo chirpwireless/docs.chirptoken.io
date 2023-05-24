@@ -27,3 +27,22 @@ To convert your gateway into a miner and start receiving rewards, an antenna nee
 It's important to note that the higher your antenna is, the better chance it has of receiving extra rewards. If your miner sees other miners that are not installed in the same hexagon, it will get extra rewards on top of the even distribution of tokens.
 
 **We encourage you to follow the rules and guidelines for installation to ensure the best performance and highest rewards for your gateway. The tokenomics are designed in a way that the more clients a network has, the higher the price of the token, so it is the goal of the keeper to provide a professional-grade network service for our clients. By providing high-quality coverage and staying online, you not only increase your own rewards but also contribute to the overall success of the Chirp network. Thank you for being a part of the Chirp community!**
+
+## Installation
+
+1. Unpack the Box and assemble the gateway
+2. Mount the gateway outdoors
+3. On your phone connect to gateways “wifi access point ex. Chirp-000000”
+4. Open the browser on your phone. Gateways phone UI should open automatically, in rare case when it does not please enter the following IP in the browsers address bar 192.168.230.1  5. Follow the prompts on your phone to register the gateway to your account. After finishing the steps on your phone you will be prompted to continue on the dashboard
+6. Continue the registration on the dashboard. (dashboard address)
+7. Submit pictures of the gateway and installation
+8. Wait for installation approval
+
+- To ensure the proper installation of the miner, please note that there are several valid approaches based on your specific installation conditions. As your miner is a high-quality and expensive telecommunications equipment, we highly recommend taking precautions to protect it.
+- 
+- It is strongly advised to use lightning arresters and a Network RJ45 Surge Protector (these items are not included in the package) for safeguarding the equipment. Please be aware that any damages caused by static electricity or lightning are not covered by the warranty.
+
+Below are examples of the protective equipment (Particular brand or seller is not recommended by Chirp please do own research):
+
+(N-Male/N-Female) Lightning arresters [link](https://www.amazon.com/RFiotasy-Lightning-Arrestor-N-Female-Protects/dp/B0BM3VLYJ1/ref=pd_ci_mcx_mh_mcx_views_0?pd_rd_w=bfkIq&content-id=amzn1.sym.1bcf206d-941a-4dd9-9560-bdaa3c824953&pf_rd_p=1bcf206d-941a-4dd9-9560-bdaa3c824953&pf_rd_r=WEADJH2EVXXR5W4M2YCK&pd_rd_wg=czhEy&pd_rd_r=6a2b61aa-175f-41c3-a1d4-2c8efec6c05b&pd_rd_i=B0BM3VLYJ1) 
+Network RJ45 Surge Protector [link](https://www.amazon.com/Ethernet-Protector-Lightning-Suppressor-Arrestor/dp/B09YNKMQBZ/ref=sr_1_17?crid=33RLWKB44Y20H&keywords=Network+RJ45+Surge+Protector&qid=1684234488&sprefix=network+rj45+surge+protector%2Caps%2C157&sr=8-17),   [link](https://www.amazon.com/CERRXIAN-Ethernet-Protector-Protection-Suppressor/dp/B07K4YXQVR/ref=sr_1_28_sspa?crid=33RLWKB44Y20H&keywords=Network+RJ45+Surge+Protector&qid=1684234581&sprefix=network+rj45+surge+protector%2Caps%2C157&sr=8-28-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzRE5YVExXMklJOEdYJmVuY3J5cHRlZElkPUEwNTc1Njk5OU45Q0pCVVpNTUIzJmVuY3J5cHRlZEFkSWQ9QTA5NjA2Mjk0UVk4OElNN0dKOTImd2lkZ2V0TmFtZT1zcF9tdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
