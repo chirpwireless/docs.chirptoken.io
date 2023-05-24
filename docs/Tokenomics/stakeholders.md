@@ -10,7 +10,7 @@ We define a stakeholder as an entity, an individual or a group of individuals, a
 
 A table describing the types of stakeholders, as well as their actions concerning Chirp network.
 
-## Type Of Stakeholder
+# Type Of Stakeholder
 
 ## Network Users
 Connect devices to the network and purchase Access Badges for the purposes of using the network.
