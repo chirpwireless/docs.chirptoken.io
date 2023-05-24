@@ -31,7 +31,7 @@ Simply use the Pulsar cable to extend the connection between the antennas and th
 
 ## Extended Position Antenna Kit + Lightning protection
 
-![ExtendedLightning](extended + lighting.png)
+![ExtendedLightning](extended_+_lighting.png)
 
 For better positioning of the antenna in an urban or rural environment, we present a solution that involves deploying a LPWAN gateway with an antenna extension cable and implementing lightning protection measures. This type of deployment is suitable for areas where the antenna is located at a higher elevation, increasing the risk of lightning strikes. The lightning protection measures will help prevent damage to the gateway and ensure its continued operation. 
 Simply use the Pulsar cable to extend the connection between the antennas and the gateway as needed and use the A-fix brackets to secure the antennas.
