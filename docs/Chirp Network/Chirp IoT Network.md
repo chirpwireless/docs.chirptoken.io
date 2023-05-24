@@ -1,4 +1,9 @@
+---
+sidebar_position: 1
+---
+
 #Chirp's IoT Network
+
 Chirp is a global telecommunications network that offers wireless internet and IoT connectivity for both residential and commercial use. It provides reliable signal coverage both indoors and outdoors, utilizing Chirp's extensive global network without the need for short-range Wi-Fi or electricity.
 
 Chirp's mission is to simplify the deployment and management of IoT technology. While IoT is designed to make our lives easier, implementing it can be a complex task. According to a study, the average IoT deployment involves coordinating with up to 18 different vendors, leading to multiple bills and potentially utilizing various IoT platforms.
