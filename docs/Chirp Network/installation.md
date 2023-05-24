@@ -13,10 +13,33 @@ sidebar_position: 6
 7. Submit pictures of the gateway and installation
 8. Wait for installation approval
 
+# Installation
+
 ## Step One: 
 
-IMPORTANT! Do not power on the gateway until the antennas are attached to avoid damaging the concentrators.
+**IMPORTANT! Do not power on the gateway until the antennas are attached to avoid damaging the concentrators.**
 
 To assemble the gateway, attach the antennas to the gateway, ensuring that the antenna frequency matches the gateway frequency. As gateways are high-quality, expensive equipment, it is highly recommended to protect them from lightning and static. It is strongly suggested to install type N lightning arresters (male to female) (not included) between the antennas and the gateway and ground the lightning arresters and the gateway.
+
+![Lightning](20230508_145108.png)
+
+## Step Two:
+
+Ground the Lightning Arresters and the gateway with a ground cable.
+
+![Ground](20230508_145006.png)
+
+## Step Three:
+
+Attach the antennas, ensuring they match the frequency.
+
+![Frequency](20230508_125647.png)
+
+## Step Four:
+
+You are now ready to mount.
+
+To maximize rewards, it is advisable to mount the miner at the highest available point. By doing so, your miner will offer optimal coverage and increase the likelihood of detecting and connecting with other gateways in the vicinity. This enhanced visibility and connectivity have the potential to generate higher rewards for your mining activities.
+
 
 
