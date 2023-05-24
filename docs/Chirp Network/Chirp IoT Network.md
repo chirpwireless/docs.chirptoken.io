@@ -12,7 +12,7 @@ Beyond its role as a physical incentivized network, Chirp also serves as a platf
 What truly sets Chirp apart from other DeWi projects is its comprehensive support for a wide range of connectivity protocols. This commitment to inclusivity ensures that Chirp's decentralized internet will eventually extend its coverage to every corner of our planet. By democratizing access to connectivity and fostering a decentralized network, Chirp paves the way for a future where individuals and communities can fully leverage the power of wireless communication while retaining control over their own infrastructure. With Chirp, decentralization becomes the cornerstone of a more connected and empowered world.
  
 
-#Chirp's IoT Network
+# Chirp's IoT Network
 
 Chirp is a global telecommunications network that offers wireless internet and IoT connectivity for both residential and commercial use. It provides reliable signal coverage both indoors and outdoors, utilizing Chirp's extensive global network without the need for short-range Wi-Fi or electricity.
 
