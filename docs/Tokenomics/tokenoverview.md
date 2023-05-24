@@ -29,6 +29,8 @@ $CHIRP has a supply of 300,000,000 (300 million) tokens. The tokens are minted t
 
 ## Access to the Network
 
+![Payment System](paymentsystem.png)
+
 Access to the network will be granted through the purchase of different Access Badges, that grant different types of access: from monthly subscriptions for various devices to  pay-per-data. Pricing will ensure competitiveness, to boost user adoption.
 
 The pricing will be denominated in its fiat-value, and can be paid through different payment mechanisms, all resulting in the conversion of $CHIRP into its dollar value.
