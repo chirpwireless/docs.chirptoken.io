@@ -38,12 +38,9 @@ It's important to note that the higher your antenna is, the better chance it has
 7. Submit pictures of the gateway and installation
 8. Wait for installation approval
 
-**We encourage you to follow the rules and guidelines for installation to ensure the best performance and highest rewards for your gateway. The tokenomics are designed in a way that the more clients a network has, the higher the price of the token, so it is the goal of the keeper to provide a professional-grade network service for our clients. By providing high-quality coverage and staying online, you not only increase your own rewards but also contribute to the overall success of the Chirp network. Thank you for being a part of the Chirp community!**
-
 **To ensure the proper installation of the miner, please note that there are several valid approaches based on your specific installation conditions. As your miner is a high-quality and expensive telecommunications equipment, we highly recommend taking precautions to protect it. 
 
 It is strongly advised to use lightning arresters and a Network RJ45 Surge Protector (these items are not included in the package) for safeguarding the equipment. Please be aware that any damages caused by static electricity or lightning are not covered by the warranty.**
-
 
 ## Protective equipment
 
