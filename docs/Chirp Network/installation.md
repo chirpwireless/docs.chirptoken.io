@@ -21,19 +21,19 @@ sidebar_position: 6
 
 To assemble the gateway, attach the antennas to the gateway, ensuring that the antenna frequency matches the gateway frequency. As gateways are high-quality, expensive equipment, it is highly recommended to protect them from lightning and static. It is strongly suggested to install type N lightning arresters (male to female) (not included) between the antennas and the gateway and ground the lightning arresters and the gateway.
 
-![Lightning](20230508_145108.png)
+![Lightning](20230508_145108.jpg)
 
 ## Step Two:
 
 Ground the Lightning Arresters and the gateway with a ground cable.
 
-![Ground](20230508_145006.png)
+![Ground](20230508_145006.jpg)
 
 ## Step Three:
 
 Attach the antennas, ensuring they match the frequency.
 
-![Frequency](20230508_125647.png)
+![Frequency](20230508_125647.jpg)
 
 ## Step Four:
 
