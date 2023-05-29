@@ -66,7 +66,7 @@ For a window mount the following [mount](https://www.wifi-shop24.com/antenna-mou
 
 To power up your Blackbird and establish an internet connection, follow these steps:
 
-If your router supports Power over Ethernet (PoE), typically marked as follows
+If your router supports Power over Ethernet (PoE), (typically marked as follows)
 
 ![PoE](poe.png)
 
