@@ -58,7 +58,7 @@ In an apartment complex, mounting the gateway is limited to balconies or outside
 
 By following these guidelines, you can ensure the proper installation and functioning of the Chirp Wireless gateway, maximizing its efficiency and performance.
 
-For a window mount the following mount can be used that does not require drilling. (Flat ethernet cable can be used for data and power)
+For a window mount the following [mount](https://www.wifi-shop24.com/antenna-mount-window-frame-15cm-aluminium) can be used that does not require drilling. (Flat ethernet cable can be used for data and power)
 
 ![Window](window.webp)
 
