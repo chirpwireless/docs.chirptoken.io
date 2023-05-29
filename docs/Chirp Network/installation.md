@@ -70,7 +70,7 @@ If your router supports Power over Ethernet (PoE), (typically marked as follows)
 
 ![PoE](poe.png)
 
-connecting your gateway is a breeze. You'll only need one network cable (please note that the cable is not included in the package due to various installation scenarios) to go from your router to the gateway. Simply connect one end of the network cable to an available LAN port on your router and the other end to the gateway. This setup will provide both internet connectivity and power to your gateway efficiently. Your Blackbird consumes on average 5W of power.
+connecting your gateway is a breeze. You'll only need one network cable (not included) to go from your router to the gateway. Simply connect one end of the network cable to an available LAN port on your router and the other end to the gateway. This setup will provide both internet connectivity and power to your gateway efficiently. Your Blackbird consumes on average 5W of power.
 
 PoE Adaptor (Router without PoE Support):
 In the event that your router does not support PoE, you can still power up your gateway using a PoE adaptor included in the package. 
