@@ -41,5 +41,44 @@ You are now ready to mount.
 
 To maximize rewards, it is advisable to mount the miner at the highest available point. By doing so, your miner will offer optimal coverage and increase the likelihood of detecting and connecting with other gateways in the vicinity. This enhanced visibility and connectivity have the potential to generate higher rewards for your mining activities.
 
+**When it comes to mounting a miner, it's crucial to consider the placement of its connection. Ensure that the connection is not obstructed or in a location where you might be tempted to unplug it, even for a short period of time. It's important to maintain a consistent and uninterrupted connection for optimal mining performance.
+If the gateway goes offline, it can have a significant impact on your reward coefficient. Therefore, it is essential to prioritize a stable and reliable connection to maximize your mining rewards.**
 
+
+When it comes to mounting the gateway, it's important to adhere to the guidelines for outdoor installations. Depending on the type of dwelling, specific rules apply:
+
+### Single Family House:
+For single-family houses, only roof installations are permitted. This ensures optimal coverage and performance for the Chirp Wireless network. Make sure to choose a suitable location on the roof that provides a clear line of sight and minimizes obstructions.
+
+![gateway](gateway.jpg)
+![Roof](roofmount.jpg)
+
+### Apartment Complex:
+In an apartment complex, mounting the gateway is limited to balconies or outside windows. These areas offer the necessary accessibility and positioning for the gateway. It's important to find a suitable location that doesn't obstruct neighboring units and allows for a strong signal transmission.
+
+By following these guidelines, you can ensure the proper installation and functioning of the Chirp Wireless gateway, maximizing its efficiency and performance.
+
+For a window mount the following mount can be used that does not require drilling. (Flat ethernet cable can be used for data and power)
+
+![Window](window.webp)
+
+## Step Five
+
+To power up your Blackbird and establish an internet connection, follow these steps:
+
+If your router supports Power over Ethernet (PoE), typically marked as follows
+
+![PoE](poe.png)
+
+connecting your gateway is a breeze. You'll only need one network cable (please note that the cable is not included in the package due to various installation scenarios) to go from your router to the gateway. Simply connect one end of the network cable to an available LAN port on your router and the other end to the gateway. This setup will provide both internet connectivity and power to your gateway efficiently. Your Blackbird consumes on average 5W of power.
+
+PoE Adaptor (Router without PoE Support):
+In the event that your router does not support PoE, you can still power up your gateway using a PoE adaptor included in the package. 
+
+Here's how:
+
+1. Connect one Ethernet cable from your router to the LAN port on the provided PoE adaptor.
+2. Then, use another Ethernet cable to connect the PoE port on the adaptor to the gateway. 
+
+Once connected you should see the LED lights on the bottom of the gateway turn on.
 
