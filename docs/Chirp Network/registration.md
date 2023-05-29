@@ -30,7 +30,7 @@ On the next screen, select the gateway's primary connection type to the internet
 
 If you want to assign a static IP address or customize DNS fields, you can do so on this screen. If you are unsure about these settings, keep default and simply click "Next."
 
-![Five](Five.jpg)
+![Five](five.jpg)
 
 ## Step Six:
 
