@@ -6,7 +6,7 @@ sidebar_position: 8
 
 ## Step One:
 
-After properly mounting your gateway, take out your cellular phone and open the "WiFi Connections". If the gateway is powered on, you will see a WiFi access point named "Chirp-XXXX" (XXXX represents gateway-specific numbers). Connect your phone to this access point.
+After properly mounting your gateway, take out your cellular phone and open the "WiFi Connections". If the gateway is powered on, you will see a WiFi access point named "Chirp-XXXX" (XXXX represents gateway-specific numbers). Connect your phone to this access point. Password is the same as the access point name Chirp-XXXX.
 
 ![One](one.jpg)
 
