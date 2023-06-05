@@ -1,6 +1,6 @@
 ---
 id: 'intro'
-slug: 'Chirp Network/blackbird/intro'
+slug: 'Chirp Network/Blackbird/intro'
 title: 'Blackbird'
 ---
 
