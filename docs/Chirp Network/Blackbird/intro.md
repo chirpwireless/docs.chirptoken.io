@@ -1,5 +1,5 @@
 ---
-id: 'blackbird'
+id: 'intro'
 slug: 'Chirp Network/blackbird/intro'
 title: 'Blackbird'
 ---
