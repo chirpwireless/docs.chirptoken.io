@@ -1,5 +1,7 @@
 ---
 id: 'blackbird'
+slug: 'Chirp Network/blackbird/intro'
+title: 'Blackbird'
 ---
 
 # Blackbird
