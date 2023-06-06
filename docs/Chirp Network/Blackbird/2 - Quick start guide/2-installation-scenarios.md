@@ -1,6 +1,6 @@
 ---
-id: '2-installation'
-slug: 'Chirp Network/Blackbird/Quick start guidy/2-installation'
+id: '2-installation-scenarios'
+slug: 'Chirp Network/Blackbird/Quick start guidy/2-installation-scenarios'
 title: 'Installation Scenarios'
 sidebar_position: 2
 ---

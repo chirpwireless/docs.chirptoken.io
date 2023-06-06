@@ -1,10 +1,13 @@
 ---
-sidebar_position: 6
+id: '3-installation'
+slug: 'Chirp Network/Blackbird/Quick start guidy/3-installation'
+title: 'Installation'
+sidebar_position: 3
 ---
 
-# Installation
+# Installation {#installation}
 
-## Step One: 
+## Step One (Assemble the gateway):
 
 **IMPORTANT! Do not power on the gateway until the antennas are attached to avoid damaging the concentrators.**
 
@@ -12,19 +15,19 @@ To assemble the gateway, attach the antennas to the gateway, ensuring that the a
 
 ![Lightning](20230508_145108.jpg)
 
-## Step Two:
+## Step Two (Grounding):
 
 Ground the Lightning Arresters and the gateway with a ground cable.
 
 ![Ground](20230508_145006.jpg)
 
-## Step Three:
+## Step Three (Attach the antennas):
 
 Attach the antennas, ensuring they match the frequency.
 
 ![Frequency](20230508_125647.jpg)
 
-## Step Four:
+## Step Four (Mount the gateway):
 
 You are now ready to mount.
 
@@ -32,7 +35,6 @@ To maximize rewards, it is advisable to mount the miner at the highest available
 
 **When it comes to mounting a miner, it's crucial to consider the placement of its connection. Ensure that the connection is not obstructed or in a location where you might be tempted to unplug it, even for a short period of time. It's important to maintain a consistent and uninterrupted connection for optimal mining performance.
 If the gateway goes offline, it can have a significant impact on your reward coefficient. Therefore, it is essential to prioritize a stable and reliable connection to maximize your mining rewards.**
-
 
 When it comes to mounting the gateway, it's important to adhere to the guidelines for outdoor installations. Depending on the type of dwelling, specific rules apply:
 
@@ -51,7 +53,7 @@ For a window mount the following [mount](https://www.wifi-shop24.com/antenna-mou
 
 ![Window](window.webp)
 
-## Step Five
+## Step Five (Connect the gateway):
 
 To power up your Blackbird and establish an internet connection, follow these steps:
 
@@ -70,4 +72,3 @@ Here's how:
 2. Then, use another Ethernet cable to connect the PoE port on the adaptor to the gateway. 
 
 Once connected you should see the LED lights on the bottom of the gateway turn on.
-
