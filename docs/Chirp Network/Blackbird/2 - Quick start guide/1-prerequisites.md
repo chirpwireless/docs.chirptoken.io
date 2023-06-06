@@ -1,7 +1,7 @@
 ---
 id: '1-rerequisites'
 slug: 'Chirp Network/Blackbird/Quick start guidy/1-prerequisites'
-title: 'Quick start guide'
+title: 'Prerequisites'
 ---
 
 # Prerequisites {#prerequisites}
