@@ -31,4 +31,4 @@ The Blackbird miner has been extensively tested to meet local regulations and in
 2. [FCC](RAK7289CV2H_RAK7289V2H_FCC_Certification.pdf) (USA): The Federal Communications Commission confirms that the device complies with the requirements for operation in the USA.
 3. [RCM](RAK7289CV2H_RAK7289V2H_RCM_Certification.pdf) (Australia): Regulatory Compliance Mark indicating compliance with Australian and New Zealand regulations.
 
-Make sure the Blackbird miner is configured to work in the correct region and complies with all local regulations. For more information on regional settings and certification requirements, please contact the relevant regulatory authorities in your region.
+The Blakbird miner would be shipped pre-configured to work in the region you selected during the purchase. If you willing to change the region, please contact our support team.

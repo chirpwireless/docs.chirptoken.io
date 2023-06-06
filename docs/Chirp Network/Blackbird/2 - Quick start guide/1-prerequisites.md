@@ -16,11 +16,13 @@ Before you begin the installation process of the Blackbird LoRaWAN gateway/miner
    - Wall mounting brackets and screws for attaching the device to a wall or other flat surface
    - Roof mounting hardware for attaching the device to a rooftop
 
+__Note: the Blackbird gateway/miner shipped with a pole/wall mounting bracket you may use for the installation.__
+
 2. **Ethernet cable**: A high-quality, outdoor-rated Ethernet cable is required to connect the Blackbird gateway/miner to your network. The cable should be long enough to reach from the device's location to your network equipment.
 
 3. **Ethernet surge protector**: To protect your network equipment and the Blackbird gateway/miner from potential damage caused by electrical surges, it is recommended to use an Ethernet surge protector. This device should be installed between the outdoor Ethernet cable and your indoor network equipment.
 
-4. **Lightning arrester**: In areas prone to lightning strikes, it is highly recommended to install a lightning arrester to protect the Blackbird gateway/miner and your network equipment from damage. The lightning arrester should be installed on the mounting pole or mast, and properly grounded according to local electrical codes.
+4. **Lightning arrester**: For rooftop locations, it is highly recommended to install a lightning arrester to protect the Blackbird gateway/miner and your network equipment from damage. The lightning arrester should be installed between antennaes and gateway/miner body, and properly grounded according to local electrical codes.
 
 5. **Power source**: Ensure that you have a reliable power source available near the installation site, either through an outdoor-rated power outlet or by using a Power over Ethernet (PoE) injector.
 
@@ -38,8 +40,6 @@ Before installing the Blackbird LoRaWAN gateway/miner, carefully select an appro
 
 3. **Accessibility**: Ensure that the installation site is easily accessible for maintenance and troubleshooting purposes.
 
-4. **Weather protection**: Avoid installing the device in areas prone to flooding, excessive moisture, or direct exposure to harsh weather conditions.
-
-5. **Security**: Choose a location that minimizes the risk of theft or vandalism.
+4. **Security**: Choose a location that minimizes the risk of theft or vandalism.
 
 Once you have gathered all the necessary tools, materials, and equipment, and have selected an appropriate installation site, you can proceed with the installation process as described in the following sections of this manual.
