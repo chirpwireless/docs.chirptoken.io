@@ -1,10 +1,10 @@
 ---
 id: '0-regions'
-slug: 'Chirp Network/Blackbird/Regions and Certifications/0-regions'
-title: 'Regions and Certifications'
+slug: 'Chirp Network/Blackbird/Regions and certificates/0-regions'
+title: 'Regions and certificates'
 ---
 
-# Regions and Certifications {#regions-and-certifications}
+# Regions and certificates {#regions-and-certificates}
 
 ## Regions {#regions}
 
