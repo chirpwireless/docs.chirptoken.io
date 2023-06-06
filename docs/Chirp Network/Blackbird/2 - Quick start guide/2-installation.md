@@ -1,5 +1,8 @@
 ---
-sidebar_position: 5
+id: '2-installation'
+slug: 'Chirp Network/Blackbird/Quick start guidy/2-installation'
+title: 'Installation Scenarios'
+sidebar_position: 2
 ---
 
 # Installation Scenarios
@@ -40,5 +43,3 @@ Lightning protection is essential for protecting the equipment:
 -	Lightning arrestors are mounted between both antennas and the gateway and each of them is grounded to a grounding rail via the grounding wire.
 -	The gateway itself is also grounded to the grounding rail via the grounding cable, mounted to the grounding bolt at the bottom of the enclosure.
 -	An Ethernet Surge Protector is positioned between the gateway and the PoE injector and is grounded as well.
-
-

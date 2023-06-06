@@ -2,6 +2,7 @@
 id: '0-quickstart'
 slug: 'Chirp Network/Blackbird/Quick start guidy/0-quickstart'
 title: 'Quick start guide'
+sidebar_position: 1
 ---
 
 # Quick start guide {#quick-start-guide}
