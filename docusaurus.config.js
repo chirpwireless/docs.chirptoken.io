@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Chirp',
   tagline: 'Chirp docs',
-  url: 'https://docs.chirpwireless.io',
+  url: 'https://docs.chirptoken.io',
   baseUrl: '/',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
@@ -50,7 +50,7 @@ const config = {
       navbar: {
         title: 'Chirp Token',
         logo: {
-          alt: 'Chirpwireless Logo',
+          alt: 'Chirp Logo',
           src: 'img/logo.svg',
           width: '40px',
         },
