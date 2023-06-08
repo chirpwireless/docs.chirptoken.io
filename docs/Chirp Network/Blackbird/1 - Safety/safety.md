@@ -8,9 +8,9 @@ sidebar_position: 1
 
 ## Protective equipment {#protective-equipment}
 
-**To ensure the proper installation of the miner, please note that there are several valid approaches based on your specific installation conditions. As your miner is a high-quality and expensive telecommunications equipment, we highly recommend taking precautions to protect it.
+**To ensure the proper installation of the miner, please note that there are several valid approaches based on your specific installation conditions. As your miner is a high-quality and expensive telecommunications equipment, we highly recommend taking precautions to protect it.**
 
-It is strongly advised to use lightning arresters and a Network RJ45 Surge Protector (these items are not included in the package) for safeguarding the equipment. Please be aware that any damages caused by static electricity or lightning are not covered by the warranty!**
+**It is strongly advised to use lightning arresters and a Network RJ45 Surge Protector (these items are not included in the package) for safeguarding the equipment. Please be aware that any damages caused by static electricity or lightning are not covered by the warranty!**
 
 Below are examples of the protective equipment (Particular brand or seller is not recommended by Chirp please do own research):
 
