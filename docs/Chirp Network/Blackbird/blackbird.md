@@ -5,6 +5,16 @@ title: 'Blackbird'
 
 # Blackbird
 
+- [Safety](Safety/safety)
+- [Quick start guide](Quick%20start%20guide/0-quickstart)
+  - [Prerequisites](Quick%20start%20guide/1-prerequisites)
+  - [Installation Scenarios](Quick%20start%20guide/2-installation-scenarios)
+  - [Installation](Quick%20start%20guide/3-installation)
+  - [Blackbird Registration](Quick%20start%20guide/4-registration)
+  - [Blackbird Reset](Quick%20start%20guide/5-resetgateway)
+- [Connectivity Options](connectivity)
+- [Regions and certificates](Regions%20and%20certificates/0-regions)
+
 ## Welcome, Keeper! {#welcome-keeper}
 
 We are thrilled to have you join the Chirp network as a gateway Keeper. As you may know, the gateway is an essential component of the Chirp network, providing wireless coverage and enabling devices to communicate with each other.
@@ -38,15 +48,3 @@ The Blackbird miner supports both 2.4 GHz LoRa and Sub-GHz LoRaWAN frequencies, 
 Equipped with Semtech's latest SX1303 chipset, Blackbird miners in Chirp's network offer a competitive edge over other IoT networks. The miner, combined with advanced geolocation technology using Time Difference of Arrival (TDOA) techniques, enables Chirp to locate IoT devices without built-in GPS trackers, particularly benefiting low-power applications.
 
 Besides long-range capabilities, the Blackbird miner supports close-range protocols such as Zigbee, Bluetooth Low Energy (BLE), and Thread, facilitating communication with nearby devices using these protocols.
-
-### Read next
-
-- [Safety](Safety/safety)
-- [Quick start guide](Quick%20start%20guide/0-quickstart)
-  - [Prerequisites](Quick%20start%20guide/1-prerequisites)
-  - [Installation Scenarios](Quick%20start%20guide/2-installation-scenarios)
-  - [Installation](Quick%20start%20guide/3-installation)
-  - [Blackbird Registration](Quick%20start%20guide/4-registration)
-  - [Blackbird Reset](Quick%20start%20guide/5-resetgateway)
-- [Connectivity Options](connectivity)
-- [Regions and certificates](Regions%20and%20certificates/0-regions)
