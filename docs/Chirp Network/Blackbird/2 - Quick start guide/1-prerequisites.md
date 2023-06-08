@@ -1,6 +1,6 @@
 ---
 id: '1-rerequisites'
-slug: 'Chirp Network/Blackbird/Quick start guidy/1-prerequisites'
+slug: 'Chirp Network/Blackbird/Quick start guide/1-prerequisites'
 title: 'Prerequisites'
 sidebar_position: 2
 ---
