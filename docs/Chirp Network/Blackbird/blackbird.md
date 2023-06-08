@@ -42,12 +42,12 @@ Besides long-range capabilities, the Blackbird miner supports close-range protoc
 
 ### Read next
 
-- [Safety](Chirp%20Network/Blackbird/Safety/safety)
-- [Quick start guide](Chirp%20Network/Blackbird/Quick%20start%20guide/0-quickstart)
-  - [Prerequisites](Chirp%20Network/Blackbird/Quick%20start%20guide/1-prerequisites)
-  - [Installation Scenarios](Chirp%20Network/Blackbird/Quick%20start%20guide/2-installation-scenarios)
-  - [Installation](Chirp%20Network/Blackbird/Quick%20start%20guide/3-installation)
-  - [Blackbird Registration](Chirp%20Network/Blackbird/Quick%20start%20guide/4-registration)
-  - [Blackbird Reset](Chirp%20Network/Blackbird/Quick%20start%20guide/5-reset)
-- [Connectivity Options](Chirp%20Network/Blackbird/connectivity)
-- [Regions and certificates](Chirp%20Network/Blackbird/Regions%20and%20certificates/0-regions)
+- [Safety](Safety/safety)
+- [Quick start guide](Quick%20start%20guide/0-quickstart)
+  - [Prerequisites](Quick%20start%20guide/1-prerequisites)
+  - [Installation Scenarios](Quick%20start%20guide/2-installation-scenarios)
+  - [Installation](Quick%20start%20guide/3-installation)
+  - [Blackbird Registration](Quick%20start%20guide/4-registration)
+  - [Blackbird Reset](Quick%20start%20guide/5-reset)
+- [Connectivity Options](connectivity)
+- [Regions and certificates](Regions%20and%20certificates/0-regions)
