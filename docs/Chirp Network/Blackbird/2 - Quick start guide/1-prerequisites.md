@@ -1,5 +1,5 @@
 ---
-id: '1-rerequisites'
+id: '1-prerequisites'
 title: 'Prerequisites'
 sidebar_position: 2
 ---

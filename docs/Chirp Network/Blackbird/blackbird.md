@@ -47,6 +47,6 @@ Besides long-range capabilities, the Blackbird miner supports close-range protoc
   - [Installation Scenarios](Quick%20start%20guide/2-installation-scenarios)
   - [Installation](Quick%20start%20guide/3-installation)
   - [Blackbird Registration](Quick%20start%20guide/4-registration)
-  - [Blackbird Reset](Quick%20start%20guide/5-reset)
+  - [Blackbird Reset](Quick%20start%20guide/5-resetgateway)
 - [Connectivity Options](connectivity)
 - [Regions and certificates](Regions%20and%20certificates/0-regions)
