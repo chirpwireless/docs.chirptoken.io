@@ -40,6 +40,14 @@ Equipped with Semtech's latest SX1303 chipset, Blackbird miners in Chirp's netwo
 
 Besides long-range capabilities, the Blackbird miner supports close-range protocols such as Zigbee, Bluetooth Low Energy (BLE), and Thread, facilitating communication with nearby devices using these protocols.
 
-import TOCInline from '@theme/TOCInline';
+### Read next
 
-<TOCInline toc={toc} />
+- [Safety](Chirp Network/Blackbird/Safety/safety)
+- [Quick start guide](Chirp Network/Blackbird/Quick start guide/0-quickstart)
+  - [Prerequisites](Chirp Network/Blackbird/Quick start guide/1-prerequisites)
+  - [Installation Scenarios](Chirp Network/Blackbird/Quick start guide/2-installation-scenarios)
+  - [Installation](Chirp Network/Blackbird/Quick start guide/3-installation)
+  - [Blackbird Registration](Chirp Network/Blackbird/Quick start guide/4-registration)
+  - [Blackbird Reset](Chirp Network/Blackbird/Quick start guide/5-reset)
+- [Connectivity Options](Chirp Network/Blackbird/connectivity)
+- [Regions and certificates](Chirp Network/Blackbird/Regions and certificates/0-regions)
