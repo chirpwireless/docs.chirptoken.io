@@ -1,4 +1,6 @@
 ---
+id: 'connectivity'
+title: 'Connectivity Options'
 sidebar_position: 7
 ---
 

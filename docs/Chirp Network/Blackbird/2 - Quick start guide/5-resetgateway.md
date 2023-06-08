@@ -1,7 +1,6 @@
 ---
 sidebar_position: 9
 id: '5-resetgateway'
-slug: 'Chirp Network/Blackbird/Quick start guide/5-resetgateway'
 title: 'Blackbird Reset'
 ---
 

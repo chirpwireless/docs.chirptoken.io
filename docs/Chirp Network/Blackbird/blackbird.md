@@ -1,6 +1,5 @@
 ---
 id: 'blackbird'
-slug: 'Chirp Network/Blackbird/blackbird'
 title: 'Blackbird'
 ---
 

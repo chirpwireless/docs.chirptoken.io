@@ -1,7 +1,6 @@
 ---
 sidebar_position: 8
 id: '4-registration'
-slug: 'Chirp Network/Blackbird/Quick start guide/4-registration'
 title: 'Blackbird Registration'
 ---
 

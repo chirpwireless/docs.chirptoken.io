@@ -1,6 +1,5 @@
 ---
 id: 'safety'
-slug: 'Chirp Network/Blackbird/Safety/safety'
 title: 'Safety and precautions'
 sidebar_position: 1
 ---

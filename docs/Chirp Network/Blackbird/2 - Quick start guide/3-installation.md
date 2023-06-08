@@ -1,6 +1,5 @@
 ---
 id: '3-installation'
-slug: 'Chirp Network/Blackbird/Quick start guide/3-installation'
 title: 'Installation'
 sidebar_position: 3
 ---

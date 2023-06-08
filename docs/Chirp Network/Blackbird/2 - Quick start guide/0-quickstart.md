@@ -1,6 +1,5 @@
 ---
 id: '0-quickstart'
-slug: 'Chirp Network/Blackbird/Quick start guide/0-quickstart'
 title: 'Quick start guide'
 sidebar_position: 1
 ---
