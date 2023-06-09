@@ -1,23 +1,22 @@
 ---
 sidebar_position: 8
 id: '4-registration'
-slug: 'Chirp Network/Blackbird/Quick start guidy/4-registration'
 title: 'Blackbird Registration'
 ---
 
 # Blackbird Registration
 
-## Step One (Connect to the gateway's WiFi access point)
+## Step One (Connect to the miner's WiFi access point)
 
-After properly mounting your gateway, take out your cellular phone and open the "WiFi Connections". If the gateway is powered on, you will see a WiFi access point named "Chirp-XXXX" (XXXX represents gateway-specific numbers). Connect your phone to this access point. Password is the same as the access point name Chirp-XXXX.
+After properly mounting your miner, take out your cellular phone and open the "WiFi Connections". If the miner is powered on, you will see a WiFi access point named "Chirp-XXXX" (XXXX represents miner-specific numbers). Connect your phone to this access point. Password is the same as the access point name Chirp-XXXX.
 
-**It is strongly recommended to stay close to the gateway (around 5 meters) during the registration process to ensure a stable connection.**
+**It is strongly recommended to stay close to the miner (around 5 meters) during the registration process to ensure a stable connection.**
 
 ![One](one.jpg)
 
-## Step Two (Open the gateway's access point in your browser)
+## Step Two (Open the miner's access point in your browser)
 
-Once successfully connected to the gateway's WiFi access point, open your internet browser and type the following IP address in the address bar: 192.168.230.1
+Once successfully connected to the miner's WiFi access point, open your internet browser and type the following IP address in the address bar: 192.168.230.1
 
 ## Step Three (Create a password for your miner)
 
@@ -25,13 +24,13 @@ You will be prompted to create a password for your miner. Enter password twice a
 
 ![Three](three.jpg)
 
-## Step Four (Select the gateway's primary connection type to the internet)
+## Step Four (Select the miner's primary connection type to the internet)
 
-On the next screen, select the gateway's primary connection type to the internet. For these instructions, we will choose Ethernet. Click "Next."
+On the next screen, select the miner's primary connection type to the internet. For these instructions, we will choose Ethernet. Click "Next."
 
 ![Four](four.jpg)
 
-## Step Five (Configure the gateway's connection to the internet)
+## Step Five (Configure the miner's connection to the internet)
 
 If you want to assign a static IP address or customize DNS fields, you can do so on this screen. If you are unsure about these settings, keep default and simply click "Next."
 
@@ -39,13 +38,13 @@ If you want to assign a static IP address or customize DNS fields, you can do so
 
 ## Step Six (Confirm the internet connection)
 
-The gateway will confirm the internet connection. Click "Next."
+The miner will confirm the internet connection. Click "Next."
 
 ![Six](six.jpg)
 
-## Step Seven (Register the gateway)
+## Step Seven (Register the miner)
 
-This is the final step of registration through the gateway's access point. On this screen, you have the option to change the password for the gateway's access point "Chirp-XXXX" to enhance security. We recommend changing the password.
+This is the final step of registration through the miner's access point. On this screen, you have the option to change the password for the miner's access point "Chirp-XXXX" to enhance security. We recommend changing the password.
 After changing the password click backand click the "Register" button.
 
 ![Seven](seven.jpg)
@@ -64,9 +63,9 @@ After signing in, you will be prompted to name your miner for your convenience. 
 
 ![Nine](nine.jpg)
 
-## Step Ten (Submit pictures of the gateway and its installation)
+## Step Ten (Submit pictures of the miner and its installation)
 
-Upload the pictures of the gateway and its installation that you took during the final step of gateway installation.
+Upload the pictures of the miner and its installation that you took during the final step of miner installation.
 
 ![Tenn](tenn.jpg)
 

@@ -1,6 +1,5 @@
 ---
 id: '0-regions'
-slug: 'Chirp Network/Blackbird/Regions and certificates/0-regions'
 title: 'Regions and certificates'
 ---
 
