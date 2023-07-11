@@ -81,7 +81,6 @@ const config = {
               { label: 'Twitter', href: 'https://twitter.com/ChirpIoT' },
               { label: 'Discord', href: 'https://discord.com/invite/zxAaVQgFvs' },
               { label: 'Telegram', href: 'https://t.me/ChirpIoT' },
-              { label: 'Reddit', href: 'https://www.reddit.com/r/ChirpIoT/' },
             ],
           },
         ],
