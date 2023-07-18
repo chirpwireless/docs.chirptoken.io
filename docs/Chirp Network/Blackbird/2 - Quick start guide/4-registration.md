@@ -61,9 +61,9 @@ You will be redirected to the login screen of the Chirps Dashboard. Log into you
 
 After signing in, you will be prompted to name your gateway for your convenience. This allows you to differentiate between multiple gateway, such as Berlin Gateway, Washington Gateway, etc.
 
-![Nine](9-1.png)
-
 ![Nine1](9-2.png)
+
+![Nine](9-1.png)
 
 ## Step Ten (Enrollment Fee Payment)
 
