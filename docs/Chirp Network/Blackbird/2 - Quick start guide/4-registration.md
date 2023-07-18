@@ -8,15 +8,15 @@ title: 'Blackbird Registration'
 
 ## Step One (Connect to the gateway's WiFi access point)
 
-After properly mounting your gateway, take out your cellular phone and open the "WiFi Connections". If the gateway is powered on, you will see a WiFi access point named "Chirp-XXXX" (XXXX represents gateway-specific numbers). Connect your phone to this access point. Password is the same as the access point name Chirp-XXXX.
+After properly mounting your gateway, take your smartphone and open the "WiFi Connections". If the gateway is powered on, you will see a WiFi access point named "Chirp-XXXX" (XXXX represents gateway-specific numbers). Connect your phone to this access point. **Password is the same as the access point name Chirp-XXXX**.
 
-**It is strongly recommended to stay close to the gateway (around 5 meters) during the registration process to ensure a stable connection.**
+It is strongly recommended to stay close to the gateway (around 5 meters) during the registration process to ensure a stable connection.
 
 ![One](one.jpg)
 
 ## Step Two (Open the gateway's access point in your browser)
 
-Once successfully connected to the gateway's WiFi access point, open your internet browser and type the following IP address in the address bar: 192.168.230.1
+Once successfully connected to the gateway's WiFi access point, open your internet browser and type the following IP address in the address bar: **192.168.230.1**
 
 ## Step Three (Create a password for your gateway)
 
