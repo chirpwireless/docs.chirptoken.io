@@ -45,7 +45,7 @@ The gateway will confirm the internet connection. Click "Next."
 ## Step Seven (Register the gateway)
 
 This is the final step of registration through the gateway's access point. On this screen, you have the option to change the password for the gateway's access point "Chirp-XXXX" to enhance security. We recommend changing the password.
-After changing the password click backand click the "Register" button.
+After changing the password open the Dashboard click the "Register" button.
 
 ![Seven](seven.jpg)
 
