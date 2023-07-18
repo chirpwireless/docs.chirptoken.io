@@ -51,30 +51,60 @@ After changing the password click backand click the "Register" button.
 
 ![Seven1](seven1.jpg)
 
-## Step Eight (Log into your Chirps Dashboard account)
+## Step Eight (Log into your Chirps Dashboard account)​
 
 You will be redirected to the login screen of the Chirps Dashboard. Log into your Chirps Dashboard account, you already have it (this is where you redeemed your NFT).
 
-![Eight](eight.jpg)
+![Eight](8-new.png)
 
-## Step Nine (Name your miner)
+## Step Nine (Name your gateway)
 
-After signing in, you will be prompted to name your miner for your convenience. This allows you to differentiate between multiple miners, such as Berlin Miner, Washington Miner, etc.
+After signing in, you will be prompted to name your miner for your convenience. This allows you to differentiate between multiple gateway, such as Berlin Gateway, Washington Gateway, etc.
 
-![Nine](nine.jpg)
+![Nine](9-1.png)
 
-## Step Ten (Submit pictures of the miner and its installation)
+![Nine1](9-2.png)
 
-Upload the pictures of the miner and its installation that you took during the final step of miner installation.
+## Step Ten (Enrollment Fee Payment)
 
-![Tenn](tenn.jpg)
+Once your Chirp gateway is installed, the next step is to pay the enrollment fee of $40. This fee covers the administrative and verification processes required for registration. Payment can be made through PayPal, which provides a secure and convenient payment platform.
 
-![Tenn1](tenn1.jpg)
+![Ten](10-1.png)
 
-Click "Send." You will receive a message confirming the successful submission of the photos. Now, wait for the approval of your miner registration.
+![Ten1](10-2.png)
 
-![Tenn2](tenn2.jpg)
+## Step Eleven (Submit pictures of the gateway and its installation)
+
+Upload the pictures of the gateway and its installation that you took during the final step of gateway installation.
+
+![Eleven](11-1.jpg)
+
+![Eleven1](11-2.jpg)
+
+Click "Send to review". You will receive a message confirming the successful submission of the photos.
+
+## Step Twelve (Set antennas settings)
+
+Choose antenna`s height counting from the ground level and click "Continue"
+
+![Twelve](12-1.jpg)
+
+![Twelve1](12-2.jpg)
+
+## Step Thirteen (Set approximate direction of antenna)
+
+Choose antenna`s type and approximate direction on map and click "Continue"
+
+![Thirteen](13-1.jpg)
+
+![Thirteen1](13-2.jpg)
+
+Now, wait for the approval of your gateway registration. Click "Finish registration".
+
+![Thirteen2](13-3.jpg)
 
 You will also receive an email associated with your account.
 
 You can log into your dashboard to monitor the status of your installation approval.
+
+![Thirteen3](13-4.jpg)
