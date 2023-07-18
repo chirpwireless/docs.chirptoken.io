@@ -69,9 +69,9 @@ After signing in, you will be prompted to name your gateway for your convenience
 
 Once your Chirp gateway is installed, the next step is to pay the enrollment fee of $40. This fee covers the administrative and verification processes required for registration. Payment can be made through PayPal, which provides a secure and convenient payment platform.
 
-![Ten](10-1.png)
+![Ten](10-2.png)
 
-![Ten1](10-2.png)
+![Ten1](10-1.png)
 
 ## Step Eleven (Submit pictures of the gateway and its installation)
 
