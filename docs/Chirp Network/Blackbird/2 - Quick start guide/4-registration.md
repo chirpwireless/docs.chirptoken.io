@@ -67,7 +67,7 @@ After signing in, you will be prompted to name your gateway for your convenience
 
 ## Step Ten (Enrollment Fee)
 
-Once your Chirp gateway is installed, the next step is to pay the enrollment fee of $40. This fee covers your data credits and can be used on the Chirp Network. Payment can be made through PayPal.
+Once your Chirp gateway is installed, the next step is to pay the enrollment fee of $40. This fee covers your data credits. These data credits will be transferred to your account and can be used for connectivity services. Payment can be made through PayPal.
 
 ![Ten](10-2.png)
 
@@ -98,6 +98,8 @@ Choose antenna`s type and approximate direction on map and click "Continue"
 ![Thirteen](13-2.png)
 
 ![Thirteen1](13-1.png)
+
+_Note: Please be honest in selecting the antenna height and orientation as it does not impact your rewards, but it is crucial for accurate calculation of the network coverage map_
 
 Now, wait for the approval of your gateway registration. Click "Finish registration".
 
