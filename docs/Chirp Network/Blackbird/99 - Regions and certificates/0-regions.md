@@ -7,7 +7,7 @@ title: 'Regions and certificates'
 
 ## Regions {#regions}
 
-The Blackbird miner is designed to operate seamlessly across multiple regions, ensuring optimal performance and compliance with local regulations. This section describes supported LoRaWAN regions and corresponding certificates for Blackbird miner.
+The Blackbird gateway is designed to operate seamlessly across multiple regions, ensuring optimal performance and compliance with local regulations. This section describes supported LoRaWAN regions and corresponding certificates for Blackbird gateway.
 
 ### Supported LoRaWAN Regions {#supported-lorawan-regions}
 
@@ -24,10 +24,10 @@ The Blackbird miner is designed to operate seamlessly across multiple regions, e
 
 ## Certificates {#certificates}
 
-The Blackbird miner has been extensively tested to meet local regulations and industry standards. The device has the following certifications:
+The Blackbird gateway has been extensively tested to meet local regulations and industry standards. The device has the following certifications:
 
 1. [CE](RAK7289CV2H_RAK7289V2H_CE_Certification.pdf) (Europe): Conformité Européene, indicating compliance with European Union directives and standards.
 2. [FCC](RAK7289CV2H_RAK7289V2H_FCC_Certification.pdf) (USA): The Federal Communications Commission confirms that the device complies with the requirements for operation in the USA.
 3. [RCM](RAK7289CV2H_RAK7289V2H_RCM_Certification.pdf) (Australia): Regulatory Compliance Mark indicating compliance with Australian and New Zealand regulations.
 
-The Blakbird miner would be shipped pre-configured to work in the region you selected during the purchase. If you willing to change the region, please contact our support team.
+The Blakbird gateway would be shipped pre-configured to work in the region you selected during the purchase. If you willing to change the region, please contact our support team.

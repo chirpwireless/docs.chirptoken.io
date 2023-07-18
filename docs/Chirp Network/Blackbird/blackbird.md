@@ -17,13 +17,13 @@ title: 'Blackbird'
 
 ## Welcome, Keeper! {#welcome-keeper}
 
-We are thrilled to have you join the Chirp network as a miner Keeper. As you may know, the miner is an essential component of the Chirp network, providing wireless coverage and enabling devices to communicate with each other.
+We are thrilled to have you join the Chirp network as a gateway Keeper. As you may know, the gateway is an essential component of the Chirp network, providing wireless coverage and enabling devices to communicate with each other.
 
-We are excited to announce that the first batch of Chirp miners will be shipped out in June 2023 to 26 countries around the world. This is a significant milestone for Chirp, as we believe that the power of people and web3 will help us expand the network quickly.
+We are excited to announce that the first batch of Chirp gateways will be shipped out in June 2023 to 26 countries around the world. This is a significant milestone for Chirp, as we believe that the power of people and web3 will help us expand the network quickly.
 
 We are grateful for your support and commitment to this project. As an early adopter, you play a crucial role in building the foundation of the Chirp network. We recognize that this is a special moment for you as well, as you have been with us from the very beginning.
 
-While we are currently approaching the test net, we are confident that the main net launch is just around the corner. Once the main net is launched, the tokens will be evenly distributed among miner keepers. As one of our earliest backers and a Keeper, you will be rewarded with the most tokens, as there are only a few miners on the network at this stage. We value your contribution and trust in our vision, and we are committed to making Chirp a successful and sustainable project.
+While we are currently approaching the test net, we are confident that the main net launch is just around the corner. Once the main net is launched, the tokens will be evenly distributed among gateway keepers. As one of our earliest backers and a Keeper, you will be rewarded with the most tokens, as there are only a few gateways on the network at this stage. We value your contribution and trust in our vision, and we are committed to making Chirp a successful and sustainable project.
 
 Thank you again for being a part of the Chirp network. Let's get started with the installation process!
 
@@ -41,10 +41,10 @@ It's important to note that the higher your antenna is, the better chance it has
 
 ## What is the Blackbird
 
-Blackbird miners provide signal coverage to surrounding residences and businesses, creating redundancy when deployed in multiple locations. In case of a power outage, IoT devices continue to function and connect to other miners, ensuring uninterrupted control and monitoring of assets.
+Blackbird gateways provide signal coverage to surrounding residences and businesses, creating redundancy when deployed in multiple locations. In case of a power outage, IoT devices continue to function and connect to other gateways, ensuring uninterrupted control and monitoring of assets.
 
-The Blackbird miner supports both 2.4 GHz LoRa and Sub-GHz LoRaWAN frequencies, with the latter being country-specific due to regulatory differences. Chirp's network, however, operates on the globally license-free 2.4 GHz LoRa frequency, allowing devices to roam seamlessly worldwide.
+The Blackbird gateway supports both 2.4 GHz LoRa and Sub-GHz LoRaWAN frequencies, with the latter being country-specific due to regulatory differences. Chirp's network, however, operates on the globally license-free 2.4 GHz LoRa frequency, allowing devices to roam seamlessly worldwide.
 
-Equipped with Semtech's latest SX1303 chipset, Blackbird miners in Chirp's network offer a competitive edge over other IoT networks. The miner, combined with advanced geolocation technology using Time Difference of Arrival (TDOA) techniques, enables Chirp to locate IoT devices without built-in GPS trackers, particularly benefiting low-power applications.
+Equipped with Semtech's latest SX1303 chipset, Blackbird gateways in Chirp's network offer a competitive edge over other IoT networks. The gateway, combined with advanced geolocation technology using Time Difference of Arrival (TDOA) techniques, enables Chirp to locate IoT devices without built-in GPS trackers, particularly benefiting low-power applications.
 
-Besides long-range capabilities, the Blackbird miner supports close-range protocols such as Zigbee, Bluetooth Low Energy (BLE), and Thread, facilitating communication with nearby devices using these protocols.
+Besides long-range capabilities, the Blackbird gateway supports close-range protocols such as Zigbee, Bluetooth Low Energy (BLE), and Thread, facilitating communication with nearby devices using these protocols.
