@@ -77,9 +77,9 @@ Once your Chirp gateway is installed, the next step is to pay the enrollment fee
 
 Upload the pictures of the gateway and its installation that you took during the final step of gateway installation.
 
-![Eleven](11-1.png)
+![Eleven](11-2.png)
 
-![Eleven1](11-2.png)
+![Eleven1](11-1.png)
 
 Click "Send to review". You will receive a message confirming the successful submission of the photos.
 
@@ -87,17 +87,17 @@ Click "Send to review". You will receive a message confirming the successful sub
 
 Choose antenna`s height counting from the ground level and click "Continue"
 
-![Twelve](12-1.png)
+![Twelve](12-2.png)
 
-![Twelve1](12-2.png)
+![Twelve1](12-1.png)
 
 ## Step Thirteen (Set approximate direction of antenna)
 
 Choose antenna`s type and approximate direction on map and click "Continue"
 
-![Thirteen](13-1.png)
+![Thirteen](13-2.png)
 
-![Thirteen1](13-2.png)
+![Thirteen1](13-1.png)
 
 Now, wait for the approval of your gateway registration. Click "Finish registration".
 
