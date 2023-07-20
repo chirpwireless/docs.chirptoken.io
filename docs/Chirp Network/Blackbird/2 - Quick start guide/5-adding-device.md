@@ -11,6 +11,16 @@ With your miner, we've included a door sensor - just one of many LoRaWAN devices
 The door sensor provided is the Dragino LDS-02.
 
 To add it to the network, access the Dashboard and click "Add a Device" below the map.
-Choose Dragino as the vendor and LDS-02 as the model.
+
+![One](p5-1.png)
+
+Choose Dragino as the vendor and LDS02 as the model.
+
+![One](p5-2.png)
+![One](p5-3.png)
+
 Input the dev-ui and appkey found on the device's box, saving them for future reference.
+
+![One](p5-4.png)
+
 In case you need to reprovision the device, these credentials are crucial. Note them down, for example, as "Main Door - Dragino LDS-02 Dev-UI xxxx, appkey xxxx" in your documentation. While the information is stored on the device, retrieval requires technical knowledge and is different for all vendors, so it's wise to keep it handy.
