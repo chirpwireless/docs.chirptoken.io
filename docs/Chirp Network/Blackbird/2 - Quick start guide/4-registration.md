@@ -76,7 +76,7 @@ Once your Chirp gateway is installed, the next step is to pay the enrollment fee
 
 ![Ten](10-1.jpg)
 
-![Ten1](10-2.jpg)
+![Ten1](10-2-alt.jpg)
 
 ## Step Eleven (Submit pictures of the gateway and its installation)
 
