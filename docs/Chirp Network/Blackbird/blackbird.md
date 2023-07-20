@@ -11,7 +11,8 @@ title: 'Blackbird'
   - [Installation Scenarios](Quick%20start%20guide/2-installation-scenarios)
   - [Installation](Quick%20start%20guide/3-installation)
   - [Blackbird Registration](Quick%20start%20guide/4-registration)
-  - [Blackbird Reset](Quick%20start%20guide/5-reset)
+  - [Adding Device](Quick%20start%20guide/5-adding-device)
+  - [Blackbird Reset](Quick%20start%20guide/6-reset)
 - [Connectivity Options](connectivity)
 - [Regions and certificates](Regions%20and%20certificates/0-regions)
 
