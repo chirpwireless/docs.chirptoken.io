@@ -74,9 +74,9 @@ After signing in, you will be prompted to name your gateway for your convenience
 
 Once your Chirp gateway is installed, the next step is to pay the enrollment fee of $40. This fee covers your data credits. These data credits will be transferred to your account and can be used for connectivity services. Payment can be made through PayPal.
 
-![Ten](10-1.jpg)
+![Ten](10-2-alt.jpg)
 
-![Ten1](10-2-alt.jpg)
+![Ten1](10-2.jpg)
 
 ## Step Eleven (Submit pictures of the gateway and its installation)
 
