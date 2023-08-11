@@ -6,6 +6,7 @@ title: 'Blackbird'
 # Blackbird
 
 - [Safety](Safety/safety)
+- [Health considerations](Safety/health)
 - [Quick start guide](Quick%20start%20guide/0-quickstart)
   - [Prerequisites](Quick%20start%20guide/1-prerequisites)
   - [Installation Scenarios](Quick%20start%20guide/2-installation-scenarios)
