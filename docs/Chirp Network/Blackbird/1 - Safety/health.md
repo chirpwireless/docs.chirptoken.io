@@ -26,6 +26,8 @@ The maximum transmission power for both subGHz and 2.4GHz LoRaWAN concentrators 
 
 Indoor gateways with lower gain antennas radiate a maximum of 0.8W, which is also within the maximum level at 1m distance in all countries.
 
+The SAR (Specific Absorption Rate) needs to be specifically measured. As we are FCC and CE certified for our gateway products we are under the maximum limits for sure. As you can see from the CE report - page 25/26, the equipment is under the limits for all RF parts - WiFI, LoRa and Cellular (RAK7289CV2) - [CE report](https://downloads.rakwireless.com/LoRa/RAK7289V2/Certification/RAK7289C_RAK7289V2_CE_Certification.pdf).
+
 For further understanding, the following tools can be used to convert power units:
 
 1. [Power Conversion - RapidTables.com](https://www.rapidtables.com/convert/power/index.html)
