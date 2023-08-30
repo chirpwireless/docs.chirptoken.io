@@ -9,6 +9,8 @@ include:
     file: build-image.yaml
   - project: chirpwireless/ci
     file: helm.yaml
+  - project: chirpwireless/ci
+    file: deploy-gke-staging.yaml
 
 variables:
   IMAGE_NAME: registry.gitlab.com/chirpwireless/docs
@@ -27,14 +29,12 @@ deploy:staging:
   stage: deploy
   environment:
     name: staging
-    url: http://docs.internal.chirpwireless.io
   variables:
-    EKS_CLUSTER_NAME: staging
     NAMESPACE: staging
+    url: https://docs.staging.chirpwireless.io
     VALUES_FILE: ./charts/values/staging.yaml
   extends:
-    - .default
-    - .helm-deploy
+    - .deploy-gke-staging
   needs:
     - build
 
