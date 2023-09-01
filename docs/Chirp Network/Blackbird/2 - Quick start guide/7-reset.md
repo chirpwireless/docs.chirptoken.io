@@ -1,6 +1,6 @@
 ---
 sidebar_position: 9
-id: '6-reset'
+id: '7-reset'
 title: 'Blackbird Reset'
 ---
 
