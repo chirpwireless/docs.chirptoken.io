@@ -1,7 +1,7 @@
 ---
-id: '3-installation'
+id: '4-installation'
 title: 'Installation'
-sidebar_position: 3
+sidebar_position: 4
 ---
 
 # Installation {#installation}
