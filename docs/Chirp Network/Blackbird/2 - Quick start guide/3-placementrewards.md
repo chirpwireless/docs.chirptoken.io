@@ -13,8 +13,9 @@ When it comes to optimizing the coverage signal and maximizing your crypto rewar
 A gateway, in the context of network coverage, stands as a robust telecom-grade outdoor equipment. Designed to weather various conditions, it's meant to extend comprehensive coverage to your vicinity, entire neighborhoods and cities. However, this coverage potential hinges significantly on how well you position your gateway's antenna.
 
 ## Signal Path and Obstacles
-
 The essence of gateway positioning is to ensure a clear and unhindered signal path. As illustrated, the signal's trajectory encounters obstacles – trees, buildings, mountains, and the like – which can obstruct, weaken, or entirely block its course. Proper placement aims to minimize these disruptions and maximize signal transmission.
+
+![Signal](signalstrength.png)
 
 ## Wall Placement and Signal Limitations
 
