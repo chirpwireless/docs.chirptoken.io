@@ -35,7 +35,7 @@ Before installing the Blackbird LoRaWAN gateway, carefully select an appropriate
 
 1. **Visibility**: Choose a location with the most unobstructed line of sight to the surrounding area. This will ensure the best possible coverage for your LoRaWAN network.
 
-2. **Height**: Mount the device as high as possible, ideally on a rooftop or a tall pole, to maximize its coverage range.
+2. **Height**: Mount the device as high as possible, ideally on a rooftop (single family homes - only roof top or higher location on the property), tall pole, to maximize its coverage range.
 
 3. **Accessibility**: Ensure that the installation site is easily accessible for maintenance and troubleshooting purposes.
 
