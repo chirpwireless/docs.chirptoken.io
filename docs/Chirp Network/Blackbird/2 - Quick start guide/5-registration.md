@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-id: '4-registration'
+id: '5-registration'
 title: 'Blackbird Registration'
 ---
 
