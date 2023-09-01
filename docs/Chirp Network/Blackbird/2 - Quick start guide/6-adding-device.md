@@ -1,6 +1,6 @@
 ---
 sidebar_position: 8
-id: '5-adding-device'
+id: '6-adding-device'
 title: 'Adding Device'
 ---
 
