@@ -72,7 +72,7 @@ const config = {
             position: 'right',
             label: 'Client Wiki',
           },
-          { to: 'https://chirpwtoken.io', label: 'Main site', position: 'left' },
+          { to: 'https://chirptoken.io', label: 'Main site', position: 'left' },
         ],
       },
       footer: {
