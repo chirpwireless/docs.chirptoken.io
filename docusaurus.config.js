@@ -53,7 +53,7 @@ const config = {
       },
       image: 'img/logo_black.jpg',
       navbar: {
-        title: 'Chirp Token',
+        title: 'Chirp DePIN',
         logo: {
           alt: 'Chirp Logo',
           src: 'img/logo.svg',
