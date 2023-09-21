@@ -7,11 +7,10 @@ sidebar_position: 8
 # Miner verification requirements:
 
 ## 1. Proper installation: 
-Make sure to follow the detailed instructions provided in our quick start guide for installation. You can find the guide here: (Quick%20start%20guide/4-installation)
+Make sure to follow the detailed instructions provided in our quick start guide for installation. You can find the guide [here](Quick%20start%20guide/4-installation)
 
 ## 2. Blackbird Registration: 
-It is crucial to complete all the steps for Blackbird registration. For detailed instructions, please refer to our quick start guide. 
-You can find the guide here: (Quick%20start%20guide/5-registration)
+It is crucial to complete all the steps for Blackbird registration. For detailed instructions, please refer to our quick start guide [here](Quick%20start%20guide/5-adding-device) 
 
 ## 3. Online status: 
 Your miner should be actively transmitting and receiving packets, just like shown in the picture.
