@@ -22,9 +22,8 @@ Additionally, your miner should be actively transmitting and receiving packets, 
 Ensure that at least one lorawan device is connected to the network through the miner and successfully sending events to the dashboard.
 To add Dragino door sensor LDS02, included in the package, follow the [link](Quick%20start%20guide/6-adding-device)
 
-
 ![One](door_sensor_dragino_send_events.jpg)
 
 When you tap on an event in the device log, you'll find detailed technical information that was received from your device. This includes the name of the miner that processed that specific event (gw parameter).
 
-[One](door_sensor_dragino_device_log.jpg)
+![One](door_sensor_dragino_device_log.jpg)
