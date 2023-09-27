@@ -13,6 +13,8 @@ Make sure to follow the detailed instructions provided in our quick start guide 
 It is crucial to complete all the steps for Blackbird registration. For detailed instructions, please refer to our quick start guide [here](Quick%20start%20guide/5-registration) 
 
 ## 3. Online status: 
+
+Log in to the dashboard, click on your miner check out the right section. 
 When you see a green lightning symbol at the top right, it means your miner is online.
 Additionally, your miner should be actively transmitting and receiving packets, just like shown in the picture.
 
