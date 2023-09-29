@@ -108,7 +108,8 @@ _Note: Please be honest in selecting the antenna height and orientation as it do
 
 Now, wait for the approval of your gateway registration. Click "Finish registration".
 
-If you have any questions regarding verification process please refer to our verification requirements [page](verification).
+If you have questions regarding verification process please refer to requirements [page](verification).
+Contact us via help@chirpwireless.io for further assistance.
 
 ![Thirteen2](13-3.png)
 
