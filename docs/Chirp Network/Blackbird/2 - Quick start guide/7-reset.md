@@ -24,7 +24,7 @@ __Please keep in mind that the WiFi password reset will took a significant amoun
 
 ## gateway Web UI
 
-![Web UI Reset](Reset%20WebUI.JPG)
+![Web UI Reset](Reset%20WebUI.png)
 
 You can also perform a Reboot, a WiFi password reset and a full factory reset through the gateway Web UI. Follow these steps:
 
