@@ -14,9 +14,8 @@ It is crucial to complete all the steps for Blackbird registration. For detailed
 
 ## 3. Online status: 
 
-Log in to the dashboard, click on your miner check out the right section. 
-When you see a green lightning symbol at the top right, it means your miner is online.
-Additionally, your miner should be actively transmitting and receiving packets, just like shown in the picture.
+Log in to the dashboard, navigate to the left menu, then go to Gateways. From there, choose the gateway you want by clicking on it. Once you see a green lightning symbol at the top left corner, it indicates that your miner is online. 
+Furthermore, ensure that your miner is actively transmitting and receiving packets, as shown in the provided illustration.
 
 ![One](miner_transmitting.jpg)
 
@@ -24,8 +23,6 @@ Additionally, your miner should be actively transmitting and receiving packets, 
 Ensure that at least one lorawan device is connected to the network through the miner and successfully sending events to the dashboard.
 To add Dragino door sensor LDS02, included in the package, follow the [link](6-adding-device)
 
-![One](door_sensor_dragino_send_events.jpg)
-
 When you tap on an event in the device log, you'll find detailed technical information that was received from your device. This includes the name of the miner that processed that specific event (gw parameter).
 
-![One](door_sensor_dragino_device_log.jpg)
+![One](door_sensor_send_events_device_log.jpg)
