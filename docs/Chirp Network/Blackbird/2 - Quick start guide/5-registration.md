@@ -20,7 +20,7 @@ Once successfully connected to the gateway's WiFi access point, open your intern
 
 ## Step Three (Create a password for your gateway)
 
-You will be prompted to create a password for your gateway. Enter password twice and click Next.
+You will be prompted to create a password for your gateway. Enter password twice and click "Set password".
 
 ![Three](registration/1.png)
 
@@ -32,7 +32,7 @@ On the next screen, select the gateway's primary connection type to the internet
 
 ## Step Five (Configure the gateway's connection to the internet)
 
-If you want to assign a static IP address or customize DNS fields, you can do so on this screen. If you are unsure about these settings, keep default and simply click "Next".
+If you want to assign a static IP address or customize DNS fields, you can do so on this screen. If you are unsure about these settings, keep default and simply click "Save".
 
 ![Five](registration/3.png)
 
@@ -46,13 +46,11 @@ The gateway will confirm the internet connection. Click "Next".
 
 ## Step Seven (Select country and region)
 
-On the next screen, select your country and LoRaWAN region. Click "Confirm".
+On the next screen, select your country and LoRaWAN region. Click "Confirm" and then click "Save".
 
 ![Seven1](registration/6.png)
 
 ![Seven2](registration/7.png)
-
-Click "Save".
 
 ![Seven3](registration/8.png)
 
@@ -64,7 +62,7 @@ This is the final step of registration through the gateway's access point. On th
 
 ![Eight2](registration/9-2.png)
 
-After changing the password open the Dashboard and click "Register". You will be redirected to the login screen of the Chirps Dashboard.
+After changing the password open the Dashboard and click "Register". You will be redirected to the login screen of the Chirp's Dashboard.
 
 ![Eight3](registration/10.png)
 
@@ -96,29 +94,29 @@ Upload the pictures of the gateway and its installation that you took during the
 
 ![Twelve2](registration/14.png)
 
-Click "Send to review". You will receive a message confirming the successful submission of the photos.
+Click "Next". You will receive a message confirming the successful submission of the photos.
 
 ## Step Thirteen (Set antennas settings)
 
-Choose antenna`s height counting from the ground level and click "Continue"
+Choose antenna`s height counting from the ground level and click "Next"
 
 ![Thirteen](registration/15.png)
 
 ## Step Fourteen (Set approximate direction of antenna)
 
-Choose antenna's type and approximate direction on map and click "Continue"
+Choose antenna's type and approximate direction on map and click "Next"
 
 ![Fourteen1](registration/16.png)
 
 _Note: Please be honest in selecting the antenna height and orientation as it does not impact your rewards, but it is crucial for accurate calculation of the network coverage map_
 
-Now, wait for the approval of your gateway registration. Click "Finish registration".
+Now, wait for the approval of your gateway registration. Click "Continue".
+
+![Fourteen2](registration/17.png)
 
 If you have questions regarding verification process please refer to requirements [page](verification).
 
 Contact us via `help@chirpwireless.io` for further assistance.
-
-![Fourteen2](registration/17.png)
 
 You will also receive an email associated with your account.
 
