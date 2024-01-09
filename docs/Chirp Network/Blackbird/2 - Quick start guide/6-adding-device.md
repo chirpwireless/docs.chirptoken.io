@@ -1,7 +1,7 @@
 ---
-sidebar_position: 8
-id: '6-adding-device'
-title: 'Adding Device'
+sidebar_position: 6
+id: "6-adding-device"
+title: "Adding Device"
 ---
 
 # Adding Device

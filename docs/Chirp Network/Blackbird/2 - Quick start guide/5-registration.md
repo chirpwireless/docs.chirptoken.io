@@ -1,7 +1,7 @@
 ---
 sidebar_position: 5
-id: '5-registration'
-title: 'Blackbird Registration'
+id: "5-registration"
+title: "Blackbird Registration"
 ---
 
 # Blackbird Registration
@@ -12,7 +12,7 @@ After properly mounting your gateway, take your smartphone and open the "WiFi Co
 
 It is strongly recommended to stay close to the gateway (around 5 meters) during the registration process to ensure a stable connection.
 
-![One](1.jpg)
+![One](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/1.jpg)
 
 ## Step Two (Open the gateway's access point in your browser)
 
@@ -22,87 +22,93 @@ Once successfully connected to the gateway's WiFi access point, open your intern
 
 You will be prompted to create a password for your gateway. Enter password twice and click Next.
 
-![Three](3.jpg)
+![Three](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/1.png)
 
 ## Step Four (Select the gateway's primary connection type to the internet)
 
 On the next screen, select the gateway's primary connection type to the internet. For these instructions, we will choose Ethernet. Click "Next".
 
-![Four](4.jpg)
+![Four](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/2.png)
 
 ## Step Five (Configure the gateway's connection to the internet)
 
 If you want to assign a static IP address or customize DNS fields, you can do so on this screen. If you are unsure about these settings, keep default and simply click "Next".
 
-![Five](5.jpg)
+![Five](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/3.png)
 
 ## Step Six (Confirm the internet connection)
 
 The gateway will confirm the internet connection. Click "Next".
 
-![Six_1](6-1.jpg)
+![Six1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/4.png)
 
-![Six_2](6-2.jpg)
+![Six2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/5.png)
 
-## Step Seven (Register the gateway)
+## Step Seven (Select country and region)
+
+On the next screen, select your country and LoRaWAN region. Click "Confirm".
+
+![Seven1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/6.png)
+
+![Seven2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/7.png)
+
+Click "Save".
+
+![Seven3](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/8.png)
+
+## Step Eight (Register the gateway)
 
 This is the final step of registration through the gateway's access point. On this screen, you have the option to change the password for the gateway's access point "Chirp-XXXXXX" to enhance security. We recommend you change the password by following link "Go to Wi-Fi settings". Set new password and click "Save".
 
-![Seven_1](7-1.jpg)
+![Eight1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/9.png)
 
-![Seven_2](7-2.jpg)
+![Eight2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/9-2.png)
 
 After changing the password open the Dashboard and click "Register". You will be redirected to the login screen of the Chirps Dashboard.
 
-![Seven_3](7-3.jpg)
+![Eight3](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/10.png)
 
-## Step Eight (Log into your Chirps Dashboard account)​
+## Step Nine (Log into your Chirp's Dashboard account)​
 
- Log into your Chirps Dashboard account, you already have it (this is where you redeemed your NFT).
+Log into your Chirp's Dashboard account, you already have it (this is where you redeemed your NFT).
 
-![Eight](8-new.png)
+![Nine](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/11-1.png)
 
-## Step Nine (Name your gateway)
+## Step Ten (Name your gateway)
 
 After signing in, you will be prompted to name your gateway for your convenience. This allows you to differentiate between multiple gateway, such as Berlin Gateway, Washington Gateway, etc.
 
-![Nine1](9-2.png)
+![Ten](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/11-2.png)
 
-![Nine](9-1.png)
+## Step Eleven (Enrollment Fee)
 
-## Step Ten (Enrollment Fee)
+Once your Chirp gateway is installed, the next step is to pay the enrollment fee of 4000 data credits ($40). This fee covers your data credits. These data credits will be transferred to your account and can be used for connectivity services. Payment can be made through PayPal.
 
-Once your Chirp gateway is installed, the next step is to pay the enrollment fee of $40. This fee covers your data credits. These data credits will be transferred to your account and can be used for connectivity services. Payment can be made through PayPal.
+![Eleven1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/12-1.png)
 
-![Ten](10-2-alt.jpg)
+![Eleven2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/12-2.png)
 
-![Ten1](10-2.jpg)
-
-## Step Eleven (Submit pictures of the gateway and its installation)
+## Step Twelwe (Submit pictures of the gateway and its installation)
 
 Upload the pictures of the gateway and its installation that you took during the final step of gateway installation.
 
-![Eleven](11-2.png)
+![Twelve1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/13.png)
 
-![Eleven1](11-1.png)
+![Twelve2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/14.png)
 
 Click "Send to review". You will receive a message confirming the successful submission of the photos.
 
-## Step Twelve (Set antennas settings)
+## Step Thirteen (Set antennas settings)
 
 Choose antenna`s height counting from the ground level and click "Continue"
 
-![Twelve](12-2.png)
+![Thirteen](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/15.png)
 
-![Twelve1](12-1.png)
+## Step Fourteen (Set approximate direction of antenna)
 
-## Step Thirteen (Set approximate direction of antenna)
+Choose antenna's type and approximate direction on map and click "Continue"
 
-Choose antenna`s type and approximate direction on map and click "Continue"
-
-![Thirteen](13-2.png)
-
-![Thirteen1](13-1.png)
+![Fourteen1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/16.png)
 
 _Note: Please be honest in selecting the antenna height and orientation as it does not impact your rewards, but it is crucial for accurate calculation of the network coverage map_
 
@@ -110,12 +116,10 @@ Now, wait for the approval of your gateway registration. Click "Finish registrat
 
 If you have questions regarding verification process please refer to requirements [page](verification).
 
-Contact us via help@chirpwireless.io for further assistance.
+Contact us via `help@chirpwireless.io` for further assistance.
 
-![Thirteen2](13-3.png)
+![Fourteen2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/17.png)
 
 You will also receive an email associated with your account.
 
 You can log into your dashboard to monitor the status of your installation approval.
-
-![Thirteen3](13-4.png)

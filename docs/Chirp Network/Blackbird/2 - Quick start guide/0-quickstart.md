@@ -1,6 +1,6 @@
 ---
-id: '0-quickstart'
-title: 'Quick start guide'
+id: "0-quickstart"
+title: "Quick start guide"
 sidebar_position: 1
 ---
 
@@ -8,12 +8,11 @@ sidebar_position: 1
 
 ## Installation Summary {#installation-summary}
 
-1. Unpack the Box and assemble the gateway
+1. Unpack the box and assemble the gateway
 2. Mount the gateway outdoors
-3. On your phone connect to gateway “wifi access point ex. Chirp-000000”
-4. Open the browser on your phone. In the browsers address bar type in 192.168.230.1  
-5. Follow the prompts on your phone to register the gateway to your account. After finishing the steps on your phone you will be prompted to continue on the dashboard.
-6. Continue the registration on the dashboard. (dashboard address)
-7. Submit pictures of the gateway and installation
-8. Wait for installation approval
-9. Once approved, your gateway will be registered as a gateway on our network, and once in mainnet you will start receiving rewards in the form of $CHIRP tokens.
+3. Connect to gateway's Wi-Fi access point (i.e. Chirp-000000)
+4. Open the browser and type address `192.168.230.1`
+5. Follow the prompts to register the gateway to your account. After finishing the steps you will be prompted to continue on the Chirp's dashboard.
+6. Continue the registration on the dashboard at https://app.chirpwireless.io and verify your installation
+7. Wait for installation approval, you will receive an e-mail and site notification from Chirp team
+8. Once approved, your gateway will be registered as a gateway on Chirp's network and once in mainnet you will start receiving rewards in the form of $CHIRP tokens
