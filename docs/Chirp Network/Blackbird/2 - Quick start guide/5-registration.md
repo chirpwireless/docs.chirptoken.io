@@ -12,7 +12,7 @@ After properly mounting your gateway, take your smartphone and open the "WiFi Co
 
 It is strongly recommended to stay close to the gateway (around 5 meters) during the registration process to ensure a stable connection.
 
-![One](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/1.jpg)
+![One](registration/1.jpg)
 
 ## Step Two (Open the gateway's access point in your browser)
 
@@ -22,79 +22,79 @@ Once successfully connected to the gateway's WiFi access point, open your intern
 
 You will be prompted to create a password for your gateway. Enter password twice and click Next.
 
-![Three](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/1.png)
+![Three](registration/1.png)
 
 ## Step Four (Select the gateway's primary connection type to the internet)
 
 On the next screen, select the gateway's primary connection type to the internet. For these instructions, we will choose Ethernet. Click "Next".
 
-![Four](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/2.png)
+![Four](registration/2.png)
 
 ## Step Five (Configure the gateway's connection to the internet)
 
 If you want to assign a static IP address or customize DNS fields, you can do so on this screen. If you are unsure about these settings, keep default and simply click "Next".
 
-![Five](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/3.png)
+![Five](registration/3.png)
 
 ## Step Six (Confirm the internet connection)
 
 The gateway will confirm the internet connection. Click "Next".
 
-![Six1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/4.png)
+![Six1](registration/4.png)
 
-![Six2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/5.png)
+![Six2](registration/5.png)
 
 ## Step Seven (Select country and region)
 
 On the next screen, select your country and LoRaWAN region. Click "Confirm".
 
-![Seven1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/6.png)
+![Seven1](registration/6.png)
 
-![Seven2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/7.png)
+![Seven2](registration/7.png)
 
 Click "Save".
 
-![Seven3](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/8.png)
+![Seven3](registration/8.png)
 
 ## Step Eight (Register the gateway)
 
 This is the final step of registration through the gateway's access point. On this screen, you have the option to change the password for the gateway's access point "Chirp-XXXXXX" to enhance security. We recommend you change the password by following link "Go to Wi-Fi settings". Set new password and click "Save".
 
-![Eight1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/9.png)
+![Eight1](registration/9.png)
 
-![Eight2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/9-2.png)
+![Eight2](registration/9-2.png)
 
 After changing the password open the Dashboard and click "Register". You will be redirected to the login screen of the Chirps Dashboard.
 
-![Eight3](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/10.png)
+![Eight3](registration/10.png)
 
 ## Step Nine (Log into your Chirp's Dashboard account)​
 
 Log into your Chirp's Dashboard account, you already have it (this is where you redeemed your NFT).
 
-![Nine](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/11-1.png)
+![Nine](registration/11-1.png)
 
 ## Step Ten (Name your gateway)
 
 After signing in, you will be prompted to name your gateway for your convenience. This allows you to differentiate between multiple gateway, such as Berlin Gateway, Washington Gateway, etc.
 
-![Ten](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/11-2.png)
+![Ten](registration/11-2.png)
 
 ## Step Eleven (Enrollment Fee)
 
 Once your Chirp gateway is installed, the next step is to pay the enrollment fee of 4000 data credits ($40). This fee covers your data credits. These data credits will be transferred to your account and can be used for connectivity services. Payment can be made through PayPal.
 
-![Eleven1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/12-1.png)
+![Eleven1](registration/12-1.png)
 
-![Eleven2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/12-2.png)
+![Eleven2](registration/12-2.png)
 
 ## Step Twelwe (Submit pictures of the gateway and its installation)
 
 Upload the pictures of the gateway and its installation that you took during the final step of gateway installation.
 
-![Twelve1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/13.png)
+![Twelve1](registration/13.png)
 
-![Twelve2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/14.png)
+![Twelve2](registration/14.png)
 
 Click "Send to review". You will receive a message confirming the successful submission of the photos.
 
@@ -102,13 +102,13 @@ Click "Send to review". You will receive a message confirming the successful sub
 
 Choose antenna`s height counting from the ground level and click "Continue"
 
-![Thirteen](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/15.png)
+![Thirteen](registration/15.png)
 
 ## Step Fourteen (Set approximate direction of antenna)
 
 Choose antenna's type and approximate direction on map and click "Continue"
 
-![Fourteen1](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/16.png)
+![Fourteen1](registration/16.png)
 
 _Note: Please be honest in selecting the antenna height and orientation as it does not impact your rewards, but it is crucial for accurate calculation of the network coverage map_
 
@@ -118,7 +118,7 @@ If you have questions regarding verification process please refer to requirement
 
 Contact us via `help@chirpwireless.io` for further assistance.
 
-![Fourteen2](/docs/Chirp%20Network/Blackbird/2%20-%20Quick%20start%20guide/registration/17.png)
+![Fourteen2](registration/17.png)
 
 You will also receive an email associated with your account.
 
