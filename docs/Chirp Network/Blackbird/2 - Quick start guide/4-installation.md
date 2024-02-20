@@ -72,4 +72,21 @@ Here's how:
 1. Connect one Ethernet cable from your router to the LAN port on the provided PoE adaptor.
 2. Then, use another Ethernet cable to connect the PoE port on the adaptor to the gateway.
 
+Completely unscrew the PoE plastic gland from the gateway.
+
+![PoE1](poe1.png)
+
+Pull the network cable through the plastic gland in the following order. 1. Nut 2. Rubber sealer 3. Male adapter
+
+![PoE2](poe2.png)
+
+![PoE3](poe3.png)
+
+For extra protection cover with electrical tape
+
+![PoE4](poe4.png)
+
+
+
+
 Once connected you should see the LED lights on the bottom of the gateway turn on.
