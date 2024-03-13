@@ -10,6 +10,8 @@ const config = {
   tagline: 'Chirp docs',
   url: 'https://docs.chirptoken.io',
   baseUrl: '/',
+  projectName: 'docs.chirptoken.io',
+  organizationName: 'chirpwireless',
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
