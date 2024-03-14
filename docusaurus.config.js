@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 const config = {
   title: 'Chirp',
   tagline: 'Chirp docs',
-  url: 'https://docs.chirptoken.io',
-  baseUrl: '/',
+  url: 'https://chirpwireless.github.io',
+  baseUrl: '/docs.chirptoken.io',
   projectName: 'docs.chirptoken.io',
   organizationName: 'chirpwireless',
   onBrokenLinks: 'warn',
