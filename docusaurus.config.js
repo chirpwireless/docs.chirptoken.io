@@ -9,7 +9,7 @@ const config = {
   title: 'Chirp',
   tagline: 'Chirp docs',
   url: 'https://chirpwireless.github.io',
-  baseUrl: '/docs.chirptoken.io',
+  baseUrl: '/docs.chirptoken.io/',
   projectName: 'docs.chirptoken.io',
   organizationName: 'chirpwireless',
   onBrokenLinks: 'warn',
