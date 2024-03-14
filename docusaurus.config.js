@@ -4,14 +4,17 @@
 const lightCodeTheme = require('prism-react-renderer').themes.github;
 const darkCodeTheme = require('prism-react-renderer').themes.dracula;
 
+const organizationName = 'chirpwireless';
+const projectName = 'docs.chirptoken.io';
+
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Chirp',
   tagline: 'Chirp docs',
   url: 'https://chirpwireless.github.io',
   baseUrl: '/docs.chirptoken.io/',
-  projectName: 'docs.chirptoken.io',
-  organizationName: 'chirpwireless',
+  organizationName,
+  projectName,
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
@@ -28,6 +31,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
+          editUrl: `https://github.com/${organizationName}/${projectName}/tree/main/`,
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
