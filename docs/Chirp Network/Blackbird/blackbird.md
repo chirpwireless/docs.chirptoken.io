@@ -5,19 +5,19 @@ title: 'Blackbird'
 
 # Blackbird
 
-- [Safety](Safety/safety)
-- [Health considerations](Safety/health)
-- [Quick start guide](Quick%20start%20guide/0-quickstart)
-  - [Prerequisites](Quick%20start%20guide/1-prerequisites)
-  - [Installation Scenarios](Quick%20start%20guide/2-installation-scenarios)
+- [Safety](1%20-%20Safety/safety.md)
+- [Health considerations](1%20-%20Safety/health.md)
+- [Quick start guide](2%20-%20Quick%20start%20guide/0-quickstart.md)
+  - [Prerequisites](2%20-%20Quick%20start%20guide/1-prerequisites.md)
+  - [Installation Scenarios](2%20-%20Quick%20start%20guide/2-installation-scenarios.md)
   - [Miner Placement and Rewards](2%20-%20Quick%20start%20guide/3-placementrewards.md)
-  - [Installation](Quick%20start%20guide/4-installation)
-  - [Blackbird Registration](Quick%20start%20guide/5-registration)
-  - [Adding Device](Quick%20start%20guide/6-adding-device)
+  - [Installation](2%20-%20Quick%20start%20guide/4-installation.md)
+  - [Blackbird Registration](2%20-%20Quick%20start%20guide/5-registration.md)
+  - [Adding Device](2%20-%20Quick%20start%20guide/6-adding-device.md)
   - [Verification requirements](2%20-%20Quick%20start%20guide/7-verification.md)
-  - [Blackbird Reset](Quick%20start%20guide/8-reset)
-- [Connectivity Options](connectivity)
-- [Regions and certificates](Regions%20and%20certificates/0-regions)
+  - [Blackbird Reset](2%20-%20Quick%20start%20guide/8-reset.md)
+- [Connectivity Options](connectivity.md)
+- [Regions and certificates](99%20-%20Regions%20and%20certificates/0-regions.md)
 
 ## Welcome, Keeper! {#welcome-keeper}
 
