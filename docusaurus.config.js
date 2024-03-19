@@ -11,8 +11,8 @@ const projectName = 'docs.chirptoken.io';
 const config = {
   title: 'Chirp',
   tagline: 'Chirp docs',
-  url: 'https://chirpwireless.github.io',
-  baseUrl: '/docs.chirptoken.io/',
+  url: 'https://docs.chirptoken.io',
+  baseUrl: '/',
   organizationName,
   projectName,
   onBrokenLinks: 'warn',
