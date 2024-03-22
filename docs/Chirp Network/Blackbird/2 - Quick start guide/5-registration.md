@@ -80,39 +80,57 @@ After signing in, you will be prompted to name your gateway for your convenience
 
 ## Step Eleven (Enrollment Fee)
 
-Once your Chirp gateway is installed, the next step is to pay the enrollment fee of 4000 data credits ($40). This fee covers your data credits. These data credits will be transferred to your account and can be used for connectivity services. Payment can be made through PayPal.
+Once your Chirp gateway is installed, the next step is to pay the enrollment fee of 4000 data credits ($40). This fee covers your data credits. These data credits will be transferred to your account and can be used for connectivity services.
 
 ![Eleven1](registration/12-1.png)
 
+_Note: Payment can be made through PayPal at Billing -> Data credits page._
+
 ![Eleven2](registration/12-2.png)
 
-## Step Twelwe (Submit pictures of the gateway and its installation)
+## Step Twelve (Connect Sui wallet)
+
+Next you need to connect Sui wallet for rewards (i.e. Sui or Suiet) to Chirp platform. Click "Connect wallet".
+
+![Twelve1](registration/12_3.png)
+
+Select your wallet.
+
+![Twelve2](registration/12_4.png)
+
+Click "Next".
+
+![Twelve3](registration/12_5.png)
+
+_Note: You can also connect reward wallet at Billing -> Rewards wallet page._
+
+![Twelve4](registration/12_6.png)
+
+## Step Thirteen (Submit pictures of the gateway and its installation)
 
 Upload the pictures of the gateway and its installation that you took during the final step of gateway installation.
 
-![Twelve1](registration/13.png)
+![Thirteen1](registration/13.png)
 
-![Twelve2](registration/14.png)
+Press "Next". You will receive a message confirming the successful submission of the photos.
 
-Click "Next". You will receive a message confirming the successful submission of the photos.
+![Thirteen2](registration/14.png)
 
-## Step Thirteen (Set antennas settings)
+## Step Fourteen (Set antennas settings and approximate direction of antenna)
 
-Choose antenna`s height counting from the ground level and click "Next"
+Choose antenna`s height counting from the ground level and click "Next".
 
-![Thirteen](registration/15.png)
+![Fourteen1](registration/15.png)
 
-## Step Fourteen (Set approximate direction of antenna)
+Choose antenna's type and approximate direction on map and click "Next".
 
-Choose antenna's type and approximate direction on map and click "Next"
+![Fourteen2](registration/16.png)
 
-![Fourteen1](registration/16.png)
-
-_Note: Please be honest in selecting the antenna height and orientation as it does not impact your rewards, but it is crucial for accurate calculation of the network coverage map_
+_Note: Please be honest in selecting the antenna height and orientation as it does not impact your rewards, but it is crucial for accurate calculation of the network coverage map._
 
 Now, wait for the approval of your gateway registration. Click "Continue".
 
-![Fourteen2](registration/17.png)
+![Fourteen3](registration/17.png)
 
 If you have questions regarding verification process please refer to requirements [page](verification).
 

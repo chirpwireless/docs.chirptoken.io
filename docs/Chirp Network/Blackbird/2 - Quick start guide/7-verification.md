@@ -29,3 +29,9 @@ To add Dragino door sensor LDS02, included in the package, follow the [link](6-a
 When you tap on an event in the device log, you'll find detailed technical information that was received from your device. This includes the name of the miner that processed that specific event (gw parameter).
 
 ![Device](device_online.png)
+
+## 5. Connect a reward wallet
+
+For receive the rewards connect your Sui wallet to Chirp platform. You can find it at Billing -> Rewards wallet page.
+
+![Wallet](wallet.png)
