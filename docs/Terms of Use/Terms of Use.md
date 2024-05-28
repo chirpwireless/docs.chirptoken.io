@@ -10,7 +10,7 @@ BY CLICKING ON THE "I ACCEPT" BUTTON, COMPLETING THE REGISTRATION PROCESS, BROWS
 
 ## Section 1: Definitions/General Intro
 
-**1.1** "Chirp" means Chirp USA, LLC.
+**1.1** "Chirp" means Chirp Token, LLC.
 
 **1.2** "Service" means any service and/or hosted software application provided by Chirp via the Website, including but not limited to, the Chirp API, the Chirp Cloud, connectivity services, and any other software services offered by Chirp via the Website.
 
