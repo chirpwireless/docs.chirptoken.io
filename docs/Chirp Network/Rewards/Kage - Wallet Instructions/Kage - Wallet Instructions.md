@@ -18,7 +18,7 @@ Even if you're not familiar with cryptocurrency wallets, don't worry — just fo
 
 ### 1. Go to the Chirp platform
 
-- On your computer, open your internet browser (like Chrome, Firefox, or Safari).
+- On your computer, open Chrome browser.
 - Go to [app.chirpwireless.io](https://app.chirpwireless.io).
 
 ### 2. Log in to your account using the same ID you use in the game
@@ -55,6 +55,7 @@ After this, you should see a message confirming that the wallet was successfully
 
 ### 5. Withdraw tokens
 
+- Before withdrawing tokens, please note that a small amount of Sui is required for withdrawals from both the Chirp platform and your Sui wallet. Ensure you have enough tokens for the transaction.
 - To transfer your earned tokens to your Sui wallet, click the **“Claim reward”** button.
 
 ![Claim Reward](7_Available_balance.png)
