@@ -1,6 +1,6 @@
 # How to Transfer a Seed Phrase to Sui Wallet for Rewards
 
-## **0. Check for Tokens via SuiScan**
+## 0. Check for Tokens via SuiScan
 
 Before importing the seed phrase and restoring your wallet in **Sui Wallet**, ensure that your tokens were sent to the correct address. You can easily check this using **SuiScan**.
 
