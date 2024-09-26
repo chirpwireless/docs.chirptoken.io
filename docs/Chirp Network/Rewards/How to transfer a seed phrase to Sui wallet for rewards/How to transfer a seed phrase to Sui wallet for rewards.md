@@ -1,5 +1,43 @@
 # How to Transfer a Seed Phrase to Sui Wallet for Rewards
 
+## **0. Check for Tokens via SuiScan**
+
+Before importing the seed phrase and restoring your wallet in **Sui Wallet**, ensure that your tokens were sent to the correct address. You can easily check this using **SuiScan**.
+
+**How to check transactions via SuiScan**:
+
+1. Go to [SuiScan](https://suiscan.xyz/).
+2. Enter your wallet address in the search bar.
+3. Review your transaction history to confirm that the tokens were sent to your wallet.
+
+This step will help you verify that the tokens are in your wallet, even if they haven’t appeared in your app yet. If the transaction was successful but the tokens are not visible in the wallet, you may need to add them manually.
+
+---
+
+- **How to Manually Add a Token to Your Wallet**
+
+Sometimes after receiving tokens, they may not appear in your wallet by default. In this case, you can add the token manually. Below are examples for **Trust Wallet** and **MetaMask**.
+
+- **Adding a Token in Trust Wallet**:
+
+1. Open the **Trust Wallet** app.
+2. Tap the icon in the top right corner of the screen (usually the search token icon).
+3. Scroll down and select the option **Add Token**.
+4. Enter the **token address**, its **symbol** (e.g., "XYZ"), and the number of **decimals**.
+5. Tap **Save**. Your tokens will now appear in your wallet.
+   - **Adding a Token in MetaMask**:
+6. Open **MetaMask** in your browser or app.
+7. Go to the **Assets** section.
+8. Click on the **Import Token** button.
+9. Enter the **token contract address**, the token symbol (e.g., "XYZ"), and the number of decimals.
+10. Click **Add**. The token will now appear in your asset list.
+
+---
+
+## Why do you need to export a seed phrase?
+
+**Chirp platform currently supports only 4 Sui wallets: Sui, Suiet, Ethos, and Wave. To be able to claim your tokens, you need to use one of the wallet extensions mentioned above.**
+
 ## 1. How to Export a Seed Phrase from Trust Wallet
 
 1. **Open Trust Wallet**:
