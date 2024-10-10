@@ -1,63 +1,16 @@
 ---
-sidebar_position: 3
+id: "rewards"
+title: "Rewards"
 ---
 
 # Rewards
 
-## Create rewards wallet
+- [Sui Wallet](Sui%20Wallet/sui_wallet.md)
+- [Blackbird Miner Rewards Claim](Blackbird%20Miner%20Rewards%20Claim/claim_rewards.md)
+- [Airdrop Rewards Claim](Airdrop%20Rewards%20Claim/airdrop.md)
+- [Kage - Wallet and Rewards Claim](Kage%20-%20Wallet%20and%20Rewards%20Claim/kage.md)
+- [Ledger Wallet and Rewards Claim](Ledger%20Wallet%20and%20Rewards%20Claim/ledger.md)
 
-To create a reward wallet, please install Google Chrome extension for Sui wallet (i.e. [Sui wallet](https://chromewebstore.google.com/detail/sui-wallet/opcgpfmipidbgpenhmajoajpbobppdil)). Next you need to create an account, if you do not have already or import an account with seed phrase.
+## Welcome, User!
 
-![One](1.png)
-
-Next please select Mainnet in wallet extension settings.
-
-![One_1](1_1.png)
-
-## Connect rewards wallet
-
-To connect a reward wallet, navigate to [https://app.chirpwireless.io](https://app.chirpwireless.io) and sign-in or sign-up. After logging in press Connect your rewards wallet button and connect wallet.
-
-![Two](2.png)
-
-Select a wallet extension you have installed.
-
-![Three](3.png)
-
-Next you need to choose a correct wallet address and click Connect.
-
-![Four](4.png)
-
-Confirm wallet by click Save wallet address button.
-
-![Five](5.png)
-
-## Verify rewards wallet
-
-To verify a reward wallet, you need to sign message with your wallet, click Sign.
-
-![Six](6.png)
-
-After that your rewards wallet is set and verified.
-
-![Seven](7.png)
-
-## Claim rewards
-
-To claim the rewards, please navigate to [https://app.staging.chirpwireless.io/mining](https://app.staging.chirpwireless.io/mining). Press Claim Rewards button.
-
-**NB: rewards claiming is currently available in testnet, do not forget to switch network in wallet extension to Testnet.**
-
-![Eight](8.png)
-
-Choose an amount of tokens to claim or press Max button, if you want to claim all the tokens and then press Claim reward.
-
-![Nine](9.png)
-
-Next you need to approve a transaction in wallet extension. Press Approve button.
-
-![Ten](10.png)
-
-Finally, you will receive tokens to rewards wallet. Congratulations!
-
-![Eleven](11.png)
+If you find yourself here, you're probably curious about how it all works with wallets and rewards on the Chirp platform! This section will guide you through everything you need to know—from creating and connecting your Sui wallet to claiming your rewards. Whether you're a Keeper gathering rewards from Blackbird Miner, a player enjoying Kage game incentives, or a lucky recipient of an airdrop, we’ve got you covered. Follow the simple steps below to maximize your experience and start earning!

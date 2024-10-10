@@ -1,18 +1,12 @@
 ---
-sidebar_position: 1
+sidebar_position: 4
 ---
 
 # How to Connect Your Wallet and Withdraw Tokens
 
-To claim your rewards, you need to connect your Sui wallet to the Chirp platform.
+To claim your Kage rewards, you need to connect your Sui wallet to the Chirp platform.
 
 **Important**: Wallet connection, disconnection, and rewards claims are only available through the Sui extension on a desktop, as the Sui wallet can only be connected via the desktop version.
-
-## What's a Sui wallet?
-
-A Sui wallet is like a digital bank account for your tokens. The Sui wallet is a specific type of wallet that you need to install in your browser.
-
-Even if you're not familiar with cryptocurrency wallets, don't worry — just follow these steps:
 
 ## Steps to Connect Your Wallet and Withdraw Tokens
 
