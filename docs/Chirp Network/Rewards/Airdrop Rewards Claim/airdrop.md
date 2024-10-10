@@ -1,4 +1,19 @@
-# How to Transfer a Seed Phrase to Sui Wallet for Rewards
+---
+sidebar_position: 3
+---
+
+# Airdrop Rewards Claim
+
+In this section, you will find out how to ensure that your CHIRP airdrops have been successfully sent to your Sui wallet and what to do if you're using a Sui wallet that is not supported by the Chirp platform. We'll guide you through the steps to verify your rewards and help you claim them seamlessly, regardless of the wallet you're using!
+
+If are you using one of 4 Google Chrome extension wallets for Sui blockchain (i.e. Sui wallet) and your wallet is already connected to Chirp platform your available for claim CHIRP tokens will automatically appear in your Chirp account. You can navigate to the User board and claim your CHIRP airdrop.
+
+![User Board](user_board.png)
+
+If you are using Sui wallet that is not supported by Chirp platform you will need to
+make a few additional simple steps to claim your CHIRP tokens.
+
+First of all please ensure that your CHIRP airdrop was successfully deposited on the Sui wallet that you specified. Visit Suiscan and enter your wallet address in the search bar. Review your transaction history to confirm that the tokens were sent to your wallet. This step will help you verify that the tokens have been deposited to your wallet and all you need to do is complete a few simple steps described below to claim them on the Chirp platform.
 
 ## 0. Check for Tokens via SuiScan
 
@@ -12,31 +27,9 @@ Before importing the seed phrase and restoring your wallet in **Sui Wallet**, e
 
 This step will help you verify that the tokens are in your wallet, even if they haven’t appeared in your app yet. If the transaction was successful but the tokens are not visible in the wallet, you may need to add them manually.
 
----
-
-- **How to Manually Add a Token to Your Wallet**
-
-Sometimes after receiving tokens, they may not appear in your wallet by default. In this case, you can add the token manually. Below are examples for **Trust Wallet** and **MetaMask**.
-
-- **Adding a Token in Trust Wallet**:
-
-1. Open the **Trust Wallet** app.
-2. Tap the icon in the top right corner of the screen (usually the search token icon).
-3. Scroll down and select the option **Add Token**.
-4. Enter the **token address**, its **symbol** (e.g., "XYZ"), and the number of **decimals**.
-5. Tap **Save**. Your tokens will now appear in your wallet.
-   - **Adding a Token in MetaMask**:
-6. Open **MetaMask** in your browser or app.
-7. Go to the **Assets** section.
-8. Click on the **Import Token** button.
-9. Enter the **token contract address**, the token symbol (e.g., "XYZ"), and the number of decimals.
-10. Click **Add**. The token will now appear in your asset list.
-
----
-
 ## Why do you need to export a seed phrase?
 
-**Chirp platform currently supports only 4 Sui wallets: Sui, Suiet, Ethos, and Wave. To be able to claim your tokens, you need to use one of the wallet extensions mentioned above.**
+Chirp platform currently supports 4 Google Chrome extension wallets for Sui blockchain (i.e. Sui wallet or Suiet, Ethos, and Wave) and in order to claim your CHIRP tokens you will need to export the seed phrase of the wallet where CHIRP airdrop was deposited and import it to one of these 4 Sui wallet extensions.
 
 ## 1. How to Export a Seed Phrase from Trust Wallet
 
@@ -65,43 +58,7 @@ This guide explains how to back up your seed phrase and why it's important to st
 
 ![image2.png](image2.png)
 
----
-
-## 2. How to Export a Seed Phrase from Ledger
-
-1. **What is a Seed Phrase?**
-
-   A seed phrase (or recovery phrase) is a set of 24 words generated when setting up your Ledger device. It is used to recover access to your wallet in case the device is lost or reset.
-
-2. **Accessing the Seed Phrase**
-
-   Ledger does not allow you to view the seed phrase after the initial setup. If you haven’t saved it, you won’t be able to recover your wallet later.
-
-   - If you lose the seed phrase, you won’t be able to access the funds in your wallet. In this case, you will need to reset the device and create a new wallet.
-
-3. **How to Export a Seed Phrase**
-
-   While the seed phrase cannot be exported directly, you can reset the device and create a new wallet:
-
-   1. **Reset the Device**:
-      - Open the Ledger Live app and go to device settings.
-      - Choose the reset option to erase all data.
-   2. **Create a New Wallet**:
-      - Follow the on-screen instructions to set up a new wallet with a new seed phrase. Write it down and store it securely.
-
-4. **Seed Phrase Security**
-
-- Never share your seed phrase with anyone.
-- Store the seed phrase securely to avoid losing access to your funds.
-
-**Additional Reference Links**:
-
-- [How to Manage Your Seed Phrase in Ledger](https://support.ledger.com/article/4404382560913-zd)
-- [Seed Phrase Backup Recommendations](https://support.ledger.com/article/8154109204509-zd)
-
----
-
-## 3. How to Export a Seed Phrase from MetaMask
+## 2. How to Export a Seed Phrase from MetaMask
 
 1. **What is a Seed Phrase?**
 
@@ -126,7 +83,7 @@ This guide explains how to back up your seed phrase and why it's important to st
 
 ---
 
-## 4. How to Import a Seed Phrase into Sui Wallet
+## 3. How to Import a Seed Phrase into Sui Wallet
 
 1. **Open Sui Wallet**
 
