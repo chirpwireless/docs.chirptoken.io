@@ -43,3 +43,26 @@ To verify a reward wallet, you need to sign message with your wallet, click Sign
 After that your rewards wallet is set and verified.
 
 ![Seven](7.png)
+
+## Adding SUI to Your Wallet
+
+When you are ready to claim your earned CHIRP tokens, it's essential to have a small balance of SUI in your wallet to cover the gas fees required for the transaction. Without SUI to pay for gas, the claim attempt will result in an error.
+
+## Why Do You Need SUI?
+
+Every transaction on the Sui network requires a small gas fee in SUI for successful completion. Even for claiming CHIRP tokens, gas is needed, so having at least a small amount of SUI in your wallet is a necessary requirement.
+
+## How Much SUI is Needed?
+
+A minimum of 0.1 SUI is required for most standard claim operations.
+It’s recommended to keep at least 1 SUI in your wallet to cover several transactions and avoid any potential issues.
+
+## How to Purchase SUI
+
+Buy SUI on Exchanges: You can purchase SUI tokens on popular cryptocurrency exchanges and transfer them to your wallet. Here are some recommended exchanges where you can buy SUI:
+
+- Binance
+- Coinbase
+- Kraken
+
+Please ensure you have a small balance of SUI in your wallet before claiming CHIRP tokens. This will guarantee a smooth transaction process and help you receive your rewards without any delays.
