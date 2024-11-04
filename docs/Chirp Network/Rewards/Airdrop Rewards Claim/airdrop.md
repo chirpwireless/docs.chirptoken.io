@@ -15,18 +15,6 @@ make a few additional simple steps to claim your CHIRP tokens.
 
 First of all please ensure that your CHIRP airdrop was successfully deposited on the Sui wallet that you specified. Visit Suiscan and enter your wallet address in the search bar. Review your transaction history to confirm that the tokens were sent to your wallet. This step will help you verify that the tokens have been deposited to your wallet and all you need to do is complete a few simple steps described below to claim them on the Chirp platform.
 
-## 0. Check for Tokens via SuiScan
-
-Before importing the seed phrase and restoring your wallet in **Sui Wallet**, ensure that your tokens were sent to the correct address. You can easily check this using **SuiScan**.
-
-**How to check transactions via SuiScan**:
-
-1. Go to [SuiScan](https://suiscan.xyz/).
-2. Enter your wallet address in the search bar.
-3. Review your transaction history to confirm that the tokens were sent to your wallet.
-
-This step will help you verify that the tokens are in your wallet, even if they haven’t appeared in your app yet. If the transaction was successful but the tokens are not visible in the wallet, you may need to add them manually.
-
 ## Why do you need to export a seed phrase?
 
 Chirp platform currently supports 4 Google Chrome extension wallets for Sui blockchain (i.e. Sui wallet or Suiet, Ethos, and Wave) and in order to claim your CHIRP tokens you will need to export the seed phrase of the wallet where CHIRP airdrop was deposited and import it to one of these 4 Sui wallet extensions.
