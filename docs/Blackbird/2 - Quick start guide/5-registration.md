@@ -139,3 +139,7 @@ Contact us via `help@chirpwireless.io` for further assistance.
 You will also receive an email associated with your account.
 
 You can log into your dashboard to monitor the status of your installation approval.
+
+## Step Fifteen (Adding a Device)
+
+Before submitting your miner for verification, make sure to add a LoRaWAN device to the miner’s network. This step is essential for ensuring network connectivity and verifying device compatibility. For detailed instructions on adding a device, refer to [this guide](6-adding-device).
