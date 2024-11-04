@@ -6,22 +6,20 @@ title: "Adding Device"
 
 # Adding Device
 
-With your miner, we've included a door sensor - just one of many LoRaWAN devices compatible with our network. Unlike WiFi devices, these have impressive range, working hundreds of meters away from the gateways, potentially benefiting your neighbors as Chirp clients without the need for additional gateways. Understanding the network's functions is vital for success, and our goal lies in registered devices, not just gateways. So register this device, test it out and understand the capabilities of the network. Keepers play a crucial role in spreading the word about the network's plug-and-play capabilities, benefiting everyone involved.
+Your miner comes with one of the many LoRaWAN-compatible sensors. These devices, unlike Wi-Fi, can operate at a significant distance from the miner, covering hundreds of meters and potentially supporting connections for other users within range. It’s essential to understand how the network works, as it is designed not only for miners but also for registered devices. We recommend registering the provided sensor, testing its capabilities, and exploring the network’s features.
 
-The door sensor is the Dragino LDS02.
+To add a device to the network, go to the Dashboard and select the "Add Device" option in the upper-right corner of the page.
 
-To add it to the network, go to the Dashboard and select the "Add a Device" option located at the top right corner of the page.
+1. Select the "LoRaWAN Devices" option.
+2. Enter the device’s manufacturer and model as indicated on the box.
+3. Enter the `DevEUI` and `AppKey` listed on the device's box, and save them for future use. This information may be needed if you have to reconfigure the device, so it's recommended to record the sensor’s name or model and its location (e.g., "Temperature Sensor — Main Office, DevEUI xxxx, AppKey xxxx") in your documentation. Although this information is stored in the device, recovering it may require technical skills and depends on the manufacturer.
 
 ![One](device/p5-1.png)
 
-Select "LoRaWAN Devices" option.
-
 ![Two](device/p5-2.png)
 
-Choose Dragino as the vendor and LDS02 as the model. Input the `DevEUI` and `AppKey` found on the device's box, saving them for future reference.
-In case you need to reprovision the device, these credentials are crucial. Note them down, for example, as `Main Door - Dragino LDS02, DevEUI xxxx, AppKey xxxx` in your documentation. While the information is stored on the device, retrieval requires technical knowledge and is different for all vendors, so it's wise to keep it handy.
-
 ![Three1](device/p5-3-1.png)
+
 ![Three2](device/p5-3-2.png)
 
 Add additional information, if necessary.
