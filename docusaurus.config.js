@@ -38,7 +38,7 @@ const config = {
         },
       }),
     ],
-    
+
   ],
   plugins: [
     [
@@ -89,7 +89,7 @@ const config = {
             items: [
               { label: 'Medium', href: 'https://chirpiot.medium.com' },
               { label: 'YouTube', href: 'https://www.youtube.com/channel/UClG9ngaNeWJ-3EhQK0tJ5mQ' },
-              { label: 'Twitter', href: 'https://twitter.com/ChirpIoT' },
+              { label: 'Twitter', href: 'https://x.com/ChirpDeWi' },
               { label: 'Discord', href: 'https://discord.com/invite/zxAaVQgFvs' },
               { label: 'Telegram', href: 'https://t.me/ChirpIoT' },
             ],
