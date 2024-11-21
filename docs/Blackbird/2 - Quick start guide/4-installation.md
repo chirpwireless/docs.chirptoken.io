@@ -1,10 +1,56 @@
 ---
-id: '4-installation'
-title: 'Installation'
+id: "4-installation"
+title: "Installation"
 sidebar_position: 4
 ---
 
 # Installation {#installation}
+
+## Please Ensure You Read Before Installation
+
+**CAUTION**
+
+Do not install your hotspot outdoors (on balconies, roofs, open spaces, poles, etc.) without lightning protection for the antennas and Ethernet cables (PoE).
+
+Lightning strikes can damage hotspot components, and this is not covered by the warranty!
+
+When powering the hotspot with DC power, ensure correct polarity and stay within the maximum voltage. Reversed connections or overvoltage can damage components and are not covered by the warranty.
+
+**IMPORTANT**
+
+For installation guides:
+
+![qr1](qr1.png)
+
+For surge protection, accessories, etc.:
+
+![qr2](qr2.png)
+
+**Please Note:**
+
+Damages resulting from lightning strikes, incorrect power supply, or improper deployment are not covered by the warranty. We highly recommend using proper lightning protection and grounding!
+
+Thank you for choosing the Chirp Wireless Gateway! Please follow these essential protection and setup practices for secure and long-lasting outdoor deployment.
+
+### Grounding & Surge Protection
+
+- **Proper Grounding:** Grounding is crucial to protect your gateway from electrical surges. Ensure a secure ground wire connects the gateway and antenna lightning arrestor to a grounding rod or nearby reliable grounding point.
+- **Surge Protection Device (SPD):** Install a surge protector on the power line and Ethernet cable to prevent damage from sudden power spikes.
+
+### Lightning Protection
+
+- **Lightning Arrester:** Use a lightning arrester on the antenna cable as an additional layer of protection. This device should be installed between the antenna and the gateway, as close to the gateway as possible, and connected to the same grounding system.
+- **Placement Precautions:** Avoid placing the gateway on high, isolated structures without proper lightning protection. Structures like tall poles or rooftops are especially vulnerable to lightning if not well-grounded.
+
+### Power Supply & Cable Management
+
+- **Cable Quality:** Outdoor cables should be UV-resistant and suitable for extended exposure to the elements. Choose high-quality cables rated for outdoor use to reduce the risk of degradation.
+- **PoE (Power over Ethernet):** The Chirp Wireless Gateway supports PoE, allowing you to power the gateway through a single Ethernet cable. This setup reduces the number of exposed cables and simplifies installation.
+- The Chirp Wireless Gateway also supports off-grid powering with the RAK Battery Plus. Make sure to use the original cables delivered with the product. Make sure to ground the Battery Plus and the Solar Panel mount.
+- **Surge-Protected PoE Injector:** Use a Signal Surge Protective device for the LAN/Internet side of the PoE adapter. This adds a layer of security, especially in lightning-prone areas.
+- **Cable Routing and Security:** Secure cables along the mounting structure using weather-resistant cable ties or clips to prevent movement and potential damage. Avoid loose cables that could wear or break due to wind or wildlife interference.
+
+All needed surge protection devices, cables, and antennas can be found in the RAK web store: [https://store.rakwireless.com](https://store.rakwireless.com)
 
 ## Step One (Assemble the gateway):
 
@@ -65,7 +111,7 @@ If your router supports Power over Ethernet (PoE), (typically marked as follows)
 connecting your gateway is a breeze. You'll only need one network cable (not included) to go from your router to the gateway. Simply connect one end of the network cable to an available LAN port on your router and the other end to the gateway. This setup will provide both internet connectivity and power to your gateway efficiently. Your Blackbird consumes on average 5W of power.
 
 PoE Adaptor (Router without PoE Support):
-In the event that your router does not support PoE, you can still power up your gateway using a PoE adaptor included in the package. 
+In the event that your router does not support PoE, you can still power up your gateway using a PoE adaptor included in the package.
 
 Here's how:
 
@@ -85,8 +131,5 @@ Pull the network cable through the plastic gland in the following order. 1. Nut 
 For extra protection cover with electrical tape
 
 ![PoE4](poe4.png)
-
-
-
 
 Once connected you should see the LED lights on the bottom of the gateway turn on.
