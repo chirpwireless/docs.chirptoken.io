@@ -4,32 +4,55 @@ sidebar_position: 5
 
 # Ledger Wallet and Rewards Claim
 
-## 1. Instructions: Using Ledger Wallet to Withdraw Chirp Tokens to SUI Wallet
+## 1. Using Ledger Wallet to Withdraw Chirp Tokens to your wallet
 
-Before You Begin: If you haven't set up a SUI wallet on your Ledger device, follow the [instructions to add a SUI wallet to Ledger](https://support.ledger.com/article/10136570195101-zd).
+Before You Begin: If you haven't set up a wallet on your Ledger device, follow instructions:
 
-<video width="320" height="240" controls>
-  <source src="/ledger_open_sui.mp4" type="video/mp4"/>
-</video>
+- [Using hardware wallets with Suiet](https://docs.suiet.app/wallet/guides/using-hardware-wallet)
+- [Connect your Ledger to SUI via SUI Wallet](https://support.ledger.com/article/10779621201949-zd)
 
-### Working with Ledger Wallet\*\*s
+**⚠️ Currently, the [Sui Wallet](https://suiwallet.com/) Chrome extension may cause errors during transaction signing. If you encounter such issues, we recommend setting up your Ledger wallet using the [Suiet wallet](https://suiet.app/) extension instead**
 
-1. \*\*Blind Sign Transaction Process:
-   - When withdrawing funds to a SUI wallet via Ledger, the "Blind Sign Transaction" process will be utilized.
+### Working with Ledger Wallet
+
+1. Blind Sign Transaction Process:
+   - When withdrawing funds to a wallet via Ledger, the "Blind Sign Transaction" process will be utilized.
    - Blind signing allows you to sign transactions without revealing their details, significantly enhancing the security of your operations. Before confirming, ensure you understand the transaction you are about to sign.
 2. Transaction Confirmation:
    - A confirmation request will appear on your Ledger device screen.
    - Carefully review the transaction details displayed on the Ledger device, including the amount, recipient address, and other parameters.
    - If all the details are correct and the transaction appears valid, press "Confirm" on the Ledger to complete the withdrawal process.
 
-<video width="320" height="240" controls>
-  <source src="/ledger_confirm_transaction.mp4" type="video/mp4"/>
-</video>
-
 ### Completing and Verifying the Transaction
 
-- After confirming the transaction, it will be sent to the blockchain for processing. Ensure that the transaction is successfully completed and the funds have been credited to your SUI wallet.
+- After confirming the transaction, it will be sent to the blockchain for processing. Ensure that the transaction is successfully completed and the funds have been credited to your wallet.
 - For additional security and to verify the success of the operation, use the transaction hash to track its status on the blockchain.
+
+### Video instructions
+
+Open Sui app on Ledger
+<video width="640" height="480" controls>
+
+  <source src="/ledger_open_sui.mp4" type="video/mp4"/>
+</video>
+
+Claim tokens with Suiet Wallet
+<video width="640" height="480" controls>
+
+  <source src="/claim_rewards_suiet.webm" type="video/mp4"/>
+</video>
+
+Claim tokens with Sui Wallet
+<video width="640" height="480" controls>
+
+  <source src="/ledger_claim_chirp_token.webm" type="video/mp4"/>
+</video>
+
+Sign the transaction with Ledger
+<video width="640" height="480" controls>
+
+  <source src="/ledger_confirm_transaction.mp4" type="video/mp4"/>
+</video>
 
 ## 2. How to Export a Seed Phrase from Ledger
 
